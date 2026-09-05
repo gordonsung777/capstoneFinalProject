@@ -1,11 +1,11 @@
-Business Introduction
+Business Introduction:
 In today’s fast-paced digital banking environment, financial institutions process millions of transactions daily across channels such as NEFT, IMPS, and RTGS. As systems grow in complexity, banks face challenges in maintaining seamless operations and proactively managing incidents.
 
 Traditional monitoring tools often work in silos—separating business metrics, application logs, and infrastructure data. This fragmentation delays root cause identification and increases downtime during service disruptions.
 
 An AI-driven observability platform can unify monitoring, prediction, and automation. By integrating machine learning, natural language processing, and agentic AI, financial institutions can predict failures, detect anomalies, and automatically analyze incidents before they affect customers.
 
-Problem statement
+Problem statement:
 
 Design and implement an end-to-end intelligent observability and predictive analytics system for a digital bank.
 
@@ -21,7 +21,7 @@ The goal is to build a solution that shifts banking operations from reactive mon
 
 Input dataset: DatasetLinks to an external site.
 
-Tasks
+Tasks:
 
 Task 1: Data preparation and exploration
 
