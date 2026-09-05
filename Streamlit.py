@@ -381,7 +381,7 @@ if st.button("Generate Incident Analysis"):
         )
 
         #Lets use OpenAI token on Vocareum
-        api_key = "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"
+        api_key = ""
         base_url = (os.getenv("OPENAI_BASE_URL") or os.getenv("OPENAI_API_BASE"))
         if api_key is None:
             st.error(
