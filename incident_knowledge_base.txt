@@ -1,0 +1,85 @@
+TITLE: High CPU Utilization - Root Cause Analysis
+CONTENT:
+When CPU utilization exceeds 85%, it typically indicates one of the following root causes:
+1. Inefficient database queries causing excessive processing
+2. Memory leaks leading to garbage collection overhead
+3. Sudden spike in transaction volume during peak hours
+4. Malicious activity or DDoS attack
+
+Resolution Steps:
+- Identify top CPU-consuming processes using system monitoring tools
+- Review recent code deployments for performance regressions
+- Scale horizontally by adding more application servers
+- Implement query optimization and caching strategies
+
+================================================================================
+
+TITLE: Database Connection Pool Exhaustion
+CONTENT:
+Database connection pool exhaustion occurs when all available connections are in use.
+Common causes:
+1. Connection leaks in application code
+2. Long-running transactions not being committed
+3. Insufficient pool size for current load
+4. Database performance degradation
+
+Resolution Steps:
+- Increase connection pool size temporarily
+- Review application logs for connection leak patterns
+- Implement connection timeout policies
+- Optimize slow-running queries
+- Consider implementing connection pooling at the application layer
+
+================================================================================
+
+TITLE: NEFT Transaction Failures
+CONTENT:
+NEFT transaction failures can be caused by:
+1. Payment gateway timeouts or unavailability
+2. Invalid beneficiary account details
+3. Network connectivity issues with external systems
+4. Database transaction deadlocks
+
+Resolution Steps:
+- Check payment gateway status and connectivity
+- Verify beneficiary account validation logic
+- Review network logs for connectivity issues
+- Implement retry logic with exponential backoff
+- Enable transaction monitoring and alerting
+
+================================================================================
+
+TITLE: Memory Usage Spike
+CONTENT:
+Sudden memory usage spikes indicate:
+1. Memory leaks in application code
+2. Large object allocations without proper cleanup
+3. Caching issues causing memory bloat
+4. Insufficient heap size configuration
+
+Resolution Steps:
+- Perform heap dump analysis to identify memory leaks
+- Review recent code changes for memory-intensive operations
+- Implement proper object disposal and garbage collection
+- Tune JVM/runtime memory parameters
+- Consider implementing memory-efficient data structures
+
+================================================================================
+
+TITLE: API Rate Limit Exceeded
+CONTENT:
+API rate limit exceeded errors occur when:
+1. Legitimate spike in user traffic
+2. Misconfigured client applications making excessive requests
+3. Potential bot or scraping activity
+4. Insufficient rate limit configuration
+
+Resolution Steps:
+- Analyze request patterns to identify source
+- Implement dynamic rate limiting based on user tier
+- Add request throttling and queue management
+- Consider implementing API gateway with rate limiting
+- Monitor and adjust rate limits based on capacity
+
+================================================================================
+

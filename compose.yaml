@@ -1,0 +1,19 @@
+services: 
+
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    
+    ports:
+      - "8000:8000"
+
+
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+
+    ports:
+      - "8501:8501"

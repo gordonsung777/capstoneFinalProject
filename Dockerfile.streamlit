@@ -1,0 +1,9 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY . . 
+
+RUN pip install streamlit pandas numpy scikit-learn langchain-openai
+
+CMD ["streamlit", "run", "Streamlit.py", "--server.address=0.0.0.0", "--server.port", "8501"]

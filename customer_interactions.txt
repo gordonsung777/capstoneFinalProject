@@ -1,0 +1,1000 @@
+[2025-06-14 01:53:42] Customer CUST003281 requested credit limit increase. Current score: 803. Under review.
+[2025-08-14 01:53:42] Customer CUST000188 requested account statement. Sent via email.
+[2025-02-15 01:53:42] Customer CUST003950 requested account statement. Sent via email.
+[2025-02-09 01:53:42] Customer CUST003221 requested credit limit increase. Current score: 614. Under review.
+[2025-06-29 01:53:42] Customer CUST003494 called about high interest rate. Explained terms and conditions.
+[2025-01-21 01:53:42] Customer CUST004070 reported lost card. Card blocked immediately.
+[2025-04-08 01:53:42] Customer CUST003354 inquired about loan application status. Application APP004290 pending.
+[2025-04-10 01:53:42] Customer CUST000095 called regarding transaction failure. Amount: $28190. Issue resolved.
+[2025-07-24 01:53:42] Customer CUST004217 reported unauthorized transaction of $15531. Case opened.
+[2024-12-13 01:53:42] Customer CUST003380 requested account statement. Sent via email.
+[2025-11-02 01:53:42] Customer CUST003529 called about high interest rate. Explained terms and conditions.
+[2025-10-13 01:53:42] Customer CUST002583 called about high interest rate. Explained terms and conditions.
+[2025-03-14 01:53:42] Customer CUST004261 requested account statement. Sent via email.
+[2025-02-01 01:53:42] Customer CUST004430 called about high interest rate. Explained terms and conditions.
+[2025-09-12 01:53:42] Customer CUST001314 reported suspicious activity on account. Fraud team notified.
+[2025-03-18 01:53:42] Customer CUST004912 complained about declined transaction. Location: Pune.
+[2025-09-15 01:53:42] Customer CUST004111 called about high interest rate. Explained terms and conditions.
+[2025-08-07 01:53:42] Customer CUST000999 requested credit limit increase. Current score: 566. Under review.
+[2025-05-12 01:53:42] Customer CUST000139 reported lost card. Card blocked immediately.
+[2024-11-07 01:53:42] Customer CUST003154 reported suspicious activity on account. Fraud team notified.
+[2025-06-19 01:53:42] Customer CUST001606 reported suspicious activity on account. Fraud team notified.
+[2025-05-01 01:53:42] Customer CUST004956 complained about declined transaction. Location: Hyderabad.
+[2025-08-18 01:53:42] Customer CUST000468 called about high interest rate. Explained terms and conditions.
+[2025-07-06 01:53:42] Customer CUST003156 requested credit limit increase. Current score: 710. Under review.
+[2025-10-05 01:53:42] Customer CUST002604 reported lost card. Card blocked immediately.
+[2024-12-25 01:53:42] Customer CUST004453 reported suspicious activity on account. Fraud team notified.
+[2025-03-12 01:53:42] Customer CUST002270 complained about declined transaction. Location: Chennai.
+[2025-02-28 01:53:42] Customer CUST001243 requested credit limit increase. Current score: 590. Under review.
+[2025-09-29 01:53:42] Customer CUST002499 called regarding transaction failure. Amount: $56315. Issue resolved.
+[2025-08-24 01:53:42] Customer CUST000446 called regarding transaction failure. Amount: $50218. Issue resolved.
+[2025-08-26 01:53:42] Customer CUST004738 requested account statement. Sent via email.
+[2025-04-25 01:53:42] Customer CUST000998 requested credit limit increase. Current score: 733. Under review.
+[2025-02-21 01:53:42] Customer CUST000455 inquired about loan application status. Application APP004333 pending.
+[2025-02-21 01:53:42] Customer CUST000787 requested credit limit increase. Current score: 664. Under review.
+[2025-04-20 01:53:42] Customer CUST004403 satisfied with service. No issues reported.
+[2024-11-04 01:53:42] Customer CUST000182 requested account statement. Sent via email.
+[2025-11-02 01:53:42] Customer CUST002622 complained about declined transaction. Location: Kolkata.
+[2025-05-12 01:53:42] Customer CUST002791 reported suspicious activity on account. Fraud team notified.
+[2025-08-08 01:53:42] Customer CUST002330 requested credit limit increase. Current score: 670. Under review.
+[2025-10-06 01:53:42] Customer CUST003031 reported suspicious activity on account. Fraud team notified.
+[2025-02-15 01:53:42] Customer CUST004948 reported unauthorized transaction of $19689. Case opened.
+[2025-08-24 01:53:42] Customer CUST003808 complained about declined transaction. Location: Hyderabad.
+[2025-01-14 01:53:42] Customer CUST003925 complained about declined transaction. Location: Ahmedabad.
+[2025-09-03 01:53:42] Customer CUST003258 reported suspicious activity on account. Fraud team notified.
+[2025-02-18 01:53:42] Customer CUST002055 called regarding transaction failure. Amount: $67199. Issue resolved.
+[2025-01-11 01:53:42] Customer CUST000532 requested account statement. Sent via email.
+[2025-01-04 01:53:42] Customer CUST002551 requested credit limit increase. Current score: 630. Under review.
+[2025-01-17 01:53:42] Customer CUST004757 satisfied with service. No issues reported.
+[2025-10-27 01:53:42] Customer CUST001754 requested credit limit increase. Current score: 753. Under review.
+[2025-01-03 01:53:42] Customer CUST000300 requested account statement. Sent via email.
+[2025-03-27 01:53:42] Customer CUST004655 called about high interest rate. Explained terms and conditions.
+[2025-03-30 01:53:42] Customer CUST001281 called regarding transaction failure. Amount: $27507. Issue resolved.
+[2025-10-05 01:53:42] Customer CUST004609 requested account statement. Sent via email.
+[2024-11-19 01:53:42] Customer CUST001865 requested account statement. Sent via email.
+[2024-11-07 01:53:42] Customer CUST001563 reported lost card. Card blocked immediately.
+[2024-11-27 01:53:42] Customer CUST003368 reported lost card. Card blocked immediately.
+[2024-11-13 01:53:42] Customer CUST001288 requested credit limit increase. Current score: 739. Under review.
+[2025-10-14 01:53:42] Customer CUST003260 called regarding transaction failure. Amount: $84932. Issue resolved.
+[2025-08-31 01:53:42] Customer CUST002393 requested credit limit increase. Current score: 804. Under review.
+[2025-01-16 01:53:42] Customer CUST000628 reported suspicious activity on account. Fraud team notified.
+[2024-12-27 01:53:42] Customer CUST004127 requested account statement. Sent via email.
+[2024-12-26 01:53:42] Customer CUST001930 requested account statement. Sent via email.
+[2025-03-19 01:53:42] Customer CUST004054 reported lost card. Card blocked immediately.
+[2025-08-17 01:53:42] Customer CUST000162 reported unauthorized transaction of $78903. Case opened.
+[2025-08-07 01:53:42] Customer CUST004647 reported suspicious activity on account. Fraud team notified.
+[2025-07-22 01:53:42] Customer CUST003214 satisfied with service. No issues reported.
+[2025-01-01 01:53:42] Customer CUST001171 requested credit limit increase. Current score: 668. Under review.
+[2024-11-06 01:53:42] Customer CUST002727 requested account statement. Sent via email.
+[2025-06-07 01:53:42] Customer CUST003933 inquired about loan application status. Application APP000583 pending.
+[2024-11-08 01:53:42] Customer CUST004262 complained about declined transaction. Location: Mumbai.
+[2024-12-03 01:53:42] Customer CUST003337 reported suspicious activity on account. Fraud team notified.
+[2025-08-25 01:53:42] Customer CUST003293 requested account statement. Sent via email.
+[2025-03-28 01:53:42] Customer CUST001322 reported unauthorized transaction of $73811. Case opened.
+[2024-12-10 01:53:42] Customer CUST004816 requested account statement. Sent via email.
+[2025-07-29 01:53:42] Customer CUST000839 reported lost card. Card blocked immediately.
+[2024-11-24 01:53:42] Customer CUST004902 reported suspicious activity on account. Fraud team notified.
+[2025-09-11 01:53:42] Customer CUST002749 requested account statement. Sent via email.
+[2025-02-15 01:53:42] Customer CUST001368 called about high interest rate. Explained terms and conditions.
+[2025-04-03 01:53:42] Customer CUST003086 reported suspicious activity on account. Fraud team notified.
+[2025-08-29 01:53:42] Customer CUST002827 satisfied with service. No issues reported.
+[2025-07-29 01:53:42] Customer CUST003299 reported lost card. Card blocked immediately.
+[2025-02-10 01:53:42] Customer CUST001837 called regarding transaction failure. Amount: $90152. Issue resolved.
+[2024-11-22 01:53:42] Customer CUST004773 requested credit limit increase. Current score: 714. Under review.
+[2025-06-11 01:53:42] Customer CUST001544 called about high interest rate. Explained terms and conditions.
+[2025-03-09 01:53:42] Customer CUST000260 reported suspicious activity on account. Fraud team notified.
+[2024-12-17 01:53:42] Customer CUST000657 requested account statement. Sent via email.
+[2024-11-07 01:53:42] Customer CUST004621 satisfied with service. No issues reported.
+[2025-04-27 01:53:42] Customer CUST001067 requested credit limit increase. Current score: 522. Under review.
+[2024-11-26 01:53:42] Customer CUST003042 requested credit limit increase. Current score: 790. Under review.
+[2025-01-03 01:53:42] Customer CUST004538 satisfied with service. No issues reported.
+[2025-10-04 01:53:42] Customer CUST004480 requested credit limit increase. Current score: 774. Under review.
+[2025-03-22 01:53:42] Customer CUST003895 reported unauthorized transaction of $57862. Case opened.
+[2025-01-06 01:53:42] Customer CUST004587 reported lost card. Card blocked immediately.
+[2025-08-25 01:53:42] Customer CUST002039 reported unauthorized transaction of $17743. Case opened.
+[2024-12-12 01:53:42] Customer CUST004717 called regarding transaction failure. Amount: $4994. Issue resolved.
+[2025-02-18 01:53:42] Customer CUST003283 called regarding transaction failure. Amount: $60761. Issue resolved.
+[2025-03-12 01:53:42] Customer CUST003265 complained about declined transaction. Location: Kolkata.
+[2024-12-26 01:53:42] Customer CUST004260 satisfied with service. No issues reported.
+[2025-03-18 01:53:42] Customer CUST004878 called about high interest rate. Explained terms and conditions.
+[2025-03-03 01:53:42] Customer CUST004604 requested account statement. Sent via email.
+[2025-06-30 01:53:42] Customer CUST000769 called about high interest rate. Explained terms and conditions.
+[2025-04-17 01:53:42] Customer CUST002734 inquired about loan application status. Application APP000117 pending.
+[2025-04-09 01:53:42] Customer CUST000753 called about high interest rate. Explained terms and conditions.
+[2025-03-14 01:53:42] Customer CUST003177 reported unauthorized transaction of $97512. Case opened.
+[2024-11-29 01:53:42] Customer CUST002938 called regarding transaction failure. Amount: $49670. Issue resolved.
+[2025-07-24 01:53:42] Customer CUST004615 requested account statement. Sent via email.
+[2025-06-05 01:53:42] Customer CUST001528 called about high interest rate. Explained terms and conditions.
+[2025-07-27 01:53:42] Customer CUST000361 satisfied with service. No issues reported.
+[2025-06-06 01:53:42] Customer CUST003625 satisfied with service. No issues reported.
+[2025-05-01 01:53:42] Customer CUST002695 requested credit limit increase. Current score: 769. Under review.
+[2025-10-23 01:53:42] Customer CUST004077 inquired about loan application status. Application APP004034 pending.
+[2025-08-02 01:53:42] Customer CUST004114 called about high interest rate. Explained terms and conditions.
+[2025-09-24 01:53:42] Customer CUST004729 reported unauthorized transaction of $89324. Case opened.
+[2025-01-18 01:53:42] Customer CUST002686 satisfied with service. No issues reported.
+[2025-09-20 01:53:42] Customer CUST003214 complained about declined transaction. Location: Ahmedabad.
+[2025-10-10 01:53:42] Customer CUST004316 reported suspicious activity on account. Fraud team notified.
+[2025-04-06 01:53:42] Customer CUST003655 reported lost card. Card blocked immediately.
+[2025-08-27 01:53:42] Customer CUST002926 satisfied with service. No issues reported.
+[2025-10-12 01:53:42] Customer CUST003099 reported lost card. Card blocked immediately.
+[2025-09-11 01:53:42] Customer CUST004616 reported lost card. Card blocked immediately.
+[2025-10-30 01:53:42] Customer CUST000957 complained about declined transaction. Location: Hyderabad.
+[2025-09-09 01:53:42] Customer CUST000734 reported lost card. Card blocked immediately.
+[2025-08-01 01:53:42] Customer CUST002204 called regarding transaction failure. Amount: $97802. Issue resolved.
+[2025-04-29 01:53:42] Customer CUST003877 satisfied with service. No issues reported.
+[2025-08-13 01:53:42] Customer CUST004472 requested credit limit increase. Current score: 686. Under review.
+[2025-10-13 01:53:42] Customer CUST003745 called regarding transaction failure. Amount: $18664. Issue resolved.
+[2024-11-08 01:53:42] Customer CUST004636 complained about declined transaction. Location: Bangalore.
+[2025-07-14 01:53:42] Customer CUST001516 reported unauthorized transaction of $75598. Case opened.
+[2025-06-02 01:53:42] Customer CUST003520 called regarding transaction failure. Amount: $3235. Issue resolved.
+[2025-04-12 01:53:42] Customer CUST001619 called about high interest rate. Explained terms and conditions.
+[2025-03-04 01:53:42] Customer CUST002040 requested account statement. Sent via email.
+[2025-09-15 01:53:42] Customer CUST000566 called about high interest rate. Explained terms and conditions.
+[2025-01-21 01:53:42] Customer CUST001664 reported unauthorized transaction of $38702. Case opened.
+[2024-12-16 01:53:42] Customer CUST003885 satisfied with service. No issues reported.
+[2024-12-19 01:53:42] Customer CUST002275 reported lost card. Card blocked immediately.
+[2025-08-30 01:53:42] Customer CUST000049 reported lost card. Card blocked immediately.
+[2024-11-20 01:53:42] Customer CUST001236 called regarding transaction failure. Amount: $74180. Issue resolved.
+[2025-07-06 01:53:42] Customer CUST001213 inquired about loan application status. Application APP004919 pending.
+[2025-04-07 01:53:42] Customer CUST001757 reported unauthorized transaction of $56854. Case opened.
+[2025-03-11 01:53:42] Customer CUST001362 requested account statement. Sent via email.
+[2025-08-15 01:53:42] Customer CUST003802 called regarding transaction failure. Amount: $47477. Issue resolved.
+[2025-09-30 01:53:42] Customer CUST000869 complained about declined transaction. Location: Kolkata.
+[2025-07-16 01:53:42] Customer CUST002651 called regarding transaction failure. Amount: $87107. Issue resolved.
+[2025-03-02 01:53:42] Customer CUST004417 inquired about loan application status. Application APP004633 pending.
+[2025-05-13 01:53:42] Customer CUST002712 reported suspicious activity on account. Fraud team notified.
+[2025-05-06 01:53:42] Customer CUST002113 called about high interest rate. Explained terms and conditions.
+[2025-04-28 01:53:42] Customer CUST001008 satisfied with service. No issues reported.
+[2024-12-20 01:53:42] Customer CUST001658 called regarding transaction failure. Amount: $23871. Issue resolved.
+[2025-02-02 01:53:42] Customer CUST000919 reported suspicious activity on account. Fraud team notified.
+[2025-04-12 01:53:42] Customer CUST001318 reported lost card. Card blocked immediately.
+[2025-04-01 01:53:42] Customer CUST003047 reported unauthorized transaction of $63049. Case opened.
+[2025-04-23 01:53:42] Customer CUST004250 satisfied with service. No issues reported.
+[2025-05-27 01:53:42] Customer CUST004973 called regarding transaction failure. Amount: $73212. Issue resolved.
+[2025-08-08 01:53:42] Customer CUST000623 reported unauthorized transaction of $16071. Case opened.
+[2025-03-31 01:53:42] Customer CUST001107 requested credit limit increase. Current score: 737. Under review.
+[2025-03-11 01:53:42] Customer CUST000777 reported suspicious activity on account. Fraud team notified.
+[2025-09-12 01:53:42] Customer CUST003749 satisfied with service. No issues reported.
+[2025-05-07 01:53:42] Customer CUST002493 called regarding transaction failure. Amount: $52096. Issue resolved.
+[2025-05-02 01:53:42] Customer CUST000102 called regarding transaction failure. Amount: $78616. Issue resolved.
+[2025-05-31 01:53:42] Customer CUST002873 reported lost card. Card blocked immediately.
+[2025-10-22 01:53:42] Customer CUST001420 requested credit limit increase. Current score: 653. Under review.
+[2025-01-20 01:53:42] Customer CUST004816 inquired about loan application status. Application APP002417 pending.
+[2025-10-03 01:53:42] Customer CUST004481 complained about declined transaction. Location: Kolkata.
+[2025-06-15 01:53:42] Customer CUST000494 requested credit limit increase. Current score: 577. Under review.
+[2025-02-21 01:53:42] Customer CUST000700 complained about declined transaction. Location: Mumbai.
+[2025-06-21 01:53:42] Customer CUST001727 called regarding transaction failure. Amount: $31084. Issue resolved.
+[2025-06-28 01:53:42] Customer CUST002855 reported unauthorized transaction of $18216. Case opened.
+[2025-05-04 01:53:42] Customer CUST001191 reported suspicious activity on account. Fraud team notified.
+[2025-07-15 01:53:42] Customer CUST001169 satisfied with service. No issues reported.
+[2024-12-05 01:53:42] Customer CUST004164 reported suspicious activity on account. Fraud team notified.
+[2025-03-24 01:53:42] Customer CUST004319 satisfied with service. No issues reported.
+[2025-02-16 01:53:42] Customer CUST000858 reported suspicious activity on account. Fraud team notified.
+[2025-07-31 01:53:42] Customer CUST003517 satisfied with service. No issues reported.
+[2025-10-14 01:53:42] Customer CUST002720 reported lost card. Card blocked immediately.
+[2025-01-16 01:53:42] Customer CUST002859 reported unauthorized transaction of $72580. Case opened.
+[2025-03-05 01:53:42] Customer CUST000332 satisfied with service. No issues reported.
+[2025-05-16 01:53:42] Customer CUST001989 requested account statement. Sent via email.
+[2025-06-15 01:53:42] Customer CUST003239 called about high interest rate. Explained terms and conditions.
+[2025-09-11 01:53:42] Customer CUST001442 complained about declined transaction. Location: Delhi.
+[2025-07-01 01:53:42] Customer CUST004628 reported lost card. Card blocked immediately.
+[2025-04-10 01:53:42] Customer CUST002789 inquired about loan application status. Application APP004700 pending.
+[2025-05-13 01:53:42] Customer CUST002100 requested credit limit increase. Current score: 774. Under review.
+[2025-10-12 01:53:42] Customer CUST000204 reported unauthorized transaction of $37300. Case opened.
+[2024-11-15 01:53:42] Customer CUST002327 inquired about loan application status. Application APP001594 pending.
+[2025-09-18 01:53:42] Customer CUST003341 complained about declined transaction. Location: Chennai.
+[2025-06-09 01:53:42] Customer CUST001912 called about high interest rate. Explained terms and conditions.
+[2024-11-27 01:53:42] Customer CUST004732 satisfied with service. No issues reported.
+[2025-06-11 01:53:42] Customer CUST004666 called about high interest rate. Explained terms and conditions.
+[2025-02-12 01:53:42] Customer CUST004987 satisfied with service. No issues reported.
+[2025-01-18 01:53:42] Customer CUST004731 called about high interest rate. Explained terms and conditions.
+[2025-04-19 01:53:42] Customer CUST000522 reported unauthorized transaction of $19572. Case opened.
+[2025-02-08 01:53:42] Customer CUST004390 satisfied with service. No issues reported.
+[2025-06-02 01:53:42] Customer CUST001071 called regarding transaction failure. Amount: $85443. Issue resolved.
+[2025-08-10 01:53:42] Customer CUST000989 reported unauthorized transaction of $36564. Case opened.
+[2025-08-06 01:53:42] Customer CUST004153 reported suspicious activity on account. Fraud team notified.
+[2025-10-27 01:53:42] Customer CUST002928 requested account statement. Sent via email.
+[2024-12-12 01:53:42] Customer CUST004117 reported lost card. Card blocked immediately.
+[2025-01-09 01:53:42] Customer CUST002988 inquired about loan application status. Application APP002802 pending.
+[2025-03-27 01:53:42] Customer CUST004803 complained about declined transaction. Location: Chennai.
+[2025-06-18 01:53:42] Customer CUST002013 called about high interest rate. Explained terms and conditions.
+[2025-10-31 01:53:42] Customer CUST004702 satisfied with service. No issues reported.
+[2024-11-23 01:53:42] Customer CUST004617 reported unauthorized transaction of $81275. Case opened.
+[2025-03-17 01:53:42] Customer CUST004817 reported lost card. Card blocked immediately.
+[2025-09-02 01:53:42] Customer CUST001657 reported lost card. Card blocked immediately.
+[2024-11-04 01:53:42] Customer CUST002619 called about high interest rate. Explained terms and conditions.
+[2025-10-29 01:53:42] Customer CUST002317 complained about declined transaction. Location: Pune.
+[2025-10-22 01:53:42] Customer CUST001429 reported suspicious activity on account. Fraud team notified.
+[2025-04-11 01:53:42] Customer CUST003491 complained about declined transaction. Location: Bangalore.
+[2025-10-13 01:53:42] Customer CUST000822 inquired about loan application status. Application APP002714 pending.
+[2025-06-16 01:53:42] Customer CUST003683 complained about declined transaction. Location: Pune.
+[2025-07-21 01:53:42] Customer CUST003048 reported suspicious activity on account. Fraud team notified.
+[2025-09-04 01:53:42] Customer CUST001473 complained about declined transaction. Location: Pune.
+[2025-08-15 01:53:42] Customer CUST002155 called regarding transaction failure. Amount: $83561. Issue resolved.
+[2025-08-17 01:53:42] Customer CUST002037 called regarding transaction failure. Amount: $30140. Issue resolved.
+[2025-05-06 01:53:42] Customer CUST000728 called about high interest rate. Explained terms and conditions.
+[2025-07-30 01:53:42] Customer CUST003919 requested credit limit increase. Current score: 837. Under review.
+[2025-01-14 01:53:42] Customer CUST004504 requested account statement. Sent via email.
+[2025-02-03 01:53:42] Customer CUST004164 called about high interest rate. Explained terms and conditions.
+[2025-08-05 01:53:42] Customer CUST004555 requested account statement. Sent via email.
+[2025-02-28 01:53:42] Customer CUST003791 inquired about loan application status. Application APP002541 pending.
+[2025-10-15 01:53:42] Customer CUST002612 called regarding transaction failure. Amount: $49501. Issue resolved.
+[2025-02-15 01:53:42] Customer CUST004281 satisfied with service. No issues reported.
+[2025-01-02 01:53:42] Customer CUST002321 inquired about loan application status. Application APP000436 pending.
+[2025-10-09 01:53:42] Customer CUST004166 reported unauthorized transaction of $67478. Case opened.
+[2025-07-26 01:53:42] Customer CUST004842 called about high interest rate. Explained terms and conditions.
+[2025-06-06 01:53:42] Customer CUST002716 requested credit limit increase. Current score: 653. Under review.
+[2025-02-03 01:53:42] Customer CUST001074 reported suspicious activity on account. Fraud team notified.
+[2025-08-28 01:53:42] Customer CUST000027 requested credit limit increase. Current score: 628. Under review.
+[2025-04-30 01:53:42] Customer CUST003239 requested account statement. Sent via email.
+[2025-03-01 01:53:42] Customer CUST000985 reported lost card. Card blocked immediately.
+[2025-05-03 01:53:42] Customer CUST003649 called about high interest rate. Explained terms and conditions.
+[2025-07-16 01:53:42] Customer CUST000005 inquired about loan application status. Application APP001648 pending.
+[2025-02-28 01:53:42] Customer CUST002813 called about high interest rate. Explained terms and conditions.
+[2025-02-24 01:53:42] Customer CUST002175 requested account statement. Sent via email.
+[2025-05-29 01:53:42] Customer CUST000962 reported suspicious activity on account. Fraud team notified.
+[2025-05-31 01:53:42] Customer CUST004565 called about high interest rate. Explained terms and conditions.
+[2024-11-21 01:53:42] Customer CUST000736 satisfied with service. No issues reported.
+[2025-04-16 01:53:42] Customer CUST003336 satisfied with service. No issues reported.
+[2025-10-08 01:53:42] Customer CUST004411 reported suspicious activity on account. Fraud team notified.
+[2025-05-11 01:53:42] Customer CUST003042 complained about declined transaction. Location: Chennai.
+[2024-12-03 01:53:42] Customer CUST003496 requested account statement. Sent via email.
+[2025-08-27 01:53:42] Customer CUST000429 complained about declined transaction. Location: Mumbai.
+[2025-06-08 01:53:42] Customer CUST001786 reported suspicious activity on account. Fraud team notified.
+[2025-06-23 01:53:42] Customer CUST004724 requested account statement. Sent via email.
+[2025-10-02 01:53:42] Customer CUST004180 reported unauthorized transaction of $58346. Case opened.
+[2025-01-02 01:53:42] Customer CUST001673 inquired about loan application status. Application APP001664 pending.
+[2025-02-08 01:53:42] Customer CUST003259 requested account statement. Sent via email.
+[2025-07-18 01:53:42] Customer CUST000863 inquired about loan application status. Application APP001391 pending.
+[2025-02-17 01:53:42] Customer CUST004485 inquired about loan application status. Application APP004615 pending.
+[2025-08-25 01:53:42] Customer CUST001344 requested account statement. Sent via email.
+[2025-03-18 01:53:42] Customer CUST002706 complained about declined transaction. Location: Delhi.
+[2025-06-25 01:53:42] Customer CUST003783 called about high interest rate. Explained terms and conditions.
+[2025-02-17 01:53:42] Customer CUST002774 requested credit limit increase. Current score: 635. Under review.
+[2025-10-21 01:53:42] Customer CUST003030 inquired about loan application status. Application APP003299 pending.
+[2025-07-02 01:53:42] Customer CUST004240 reported suspicious activity on account. Fraud team notified.
+[2025-08-05 01:53:42] Customer CUST003754 called regarding transaction failure. Amount: $71393. Issue resolved.
+[2025-04-11 01:53:42] Customer CUST004177 satisfied with service. No issues reported.
+[2025-08-01 01:53:42] Customer CUST004746 inquired about loan application status. Application APP001078 pending.
+[2025-05-19 01:53:42] Customer CUST004113 complained about declined transaction. Location: Ahmedabad.
+[2024-11-18 01:53:42] Customer CUST003940 complained about declined transaction. Location: Delhi.
+[2025-02-06 01:53:42] Customer CUST002261 inquired about loan application status. Application APP004855 pending.
+[2025-07-31 01:53:42] Customer CUST003940 inquired about loan application status. Application APP001020 pending.
+[2025-09-18 01:53:42] Customer CUST000984 inquired about loan application status. Application APP004176 pending.
+[2025-01-11 01:53:42] Customer CUST002841 called regarding transaction failure. Amount: $83101. Issue resolved.
+[2025-05-04 01:53:42] Customer CUST004889 called regarding transaction failure. Amount: $34659. Issue resolved.
+[2025-01-21 01:53:42] Customer CUST002720 complained about declined transaction. Location: Kolkata.
+[2024-11-04 01:53:42] Customer CUST001951 satisfied with service. No issues reported.
+[2024-12-12 01:53:42] Customer CUST002744 requested credit limit increase. Current score: 790. Under review.
+[2025-09-02 01:53:42] Customer CUST000444 inquired about loan application status. Application APP000624 pending.
+[2025-09-29 01:53:42] Customer CUST004391 satisfied with service. No issues reported.
+[2025-09-29 01:53:42] Customer CUST000228 reported lost card. Card blocked immediately.
+[2025-03-27 01:53:42] Customer CUST000548 called regarding transaction failure. Amount: $48910. Issue resolved.
+[2025-04-14 01:53:42] Customer CUST004595 called regarding transaction failure. Amount: $31527. Issue resolved.
+[2025-02-15 01:53:42] Customer CUST001660 called about high interest rate. Explained terms and conditions.
+[2025-10-22 01:53:42] Customer CUST003774 complained about declined transaction. Location: Hyderabad.
+[2024-12-28 01:53:42] Customer CUST003906 requested account statement. Sent via email.
+[2025-03-06 01:53:42] Customer CUST001954 reported suspicious activity on account. Fraud team notified.
+[2024-11-26 01:53:42] Customer CUST003697 requested account statement. Sent via email.
+[2025-04-14 01:53:42] Customer CUST000897 requested credit limit increase. Current score: 668. Under review.
+[2025-06-05 01:53:42] Customer CUST001993 reported suspicious activity on account. Fraud team notified.
+[2025-09-23 01:53:42] Customer CUST001491 requested credit limit increase. Current score: 715. Under review.
+[2025-07-08 01:53:42] Customer CUST002968 called regarding transaction failure. Amount: $42398. Issue resolved.
+[2025-03-24 01:53:42] Customer CUST003711 requested credit limit increase. Current score: 751. Under review.
+[2025-03-07 01:53:42] Customer CUST003932 complained about declined transaction. Location: Delhi.
+[2025-06-27 01:53:42] Customer CUST003792 requested account statement. Sent via email.
+[2024-11-29 01:53:42] Customer CUST001256 called regarding transaction failure. Amount: $57636. Issue resolved.
+[2025-07-15 01:53:42] Customer CUST003853 complained about declined transaction. Location: Hyderabad.
+[2025-07-08 01:53:42] Customer CUST004148 reported lost card. Card blocked immediately.
+[2025-03-26 01:53:42] Customer CUST003867 satisfied with service. No issues reported.
+[2025-05-07 01:53:42] Customer CUST003840 called regarding transaction failure. Amount: $69972. Issue resolved.
+[2025-02-27 01:53:42] Customer CUST003382 inquired about loan application status. Application APP000467 pending.
+[2025-01-24 01:53:42] Customer CUST003135 called regarding transaction failure. Amount: $88750. Issue resolved.
+[2025-10-19 01:53:42] Customer CUST004560 reported lost card. Card blocked immediately.
+[2025-02-10 01:53:42] Customer CUST003046 reported unauthorized transaction of $49530. Case opened.
+[2025-09-13 01:53:42] Customer CUST004415 complained about declined transaction. Location: Ahmedabad.
+[2024-12-03 01:53:42] Customer CUST003534 satisfied with service. No issues reported.
+[2025-02-24 01:53:42] Customer CUST000197 complained about declined transaction. Location: Bangalore.
+[2025-04-21 01:53:42] Customer CUST001815 called regarding transaction failure. Amount: $80642. Issue resolved.
+[2025-04-07 01:53:42] Customer CUST001175 reported unauthorized transaction of $59987. Case opened.
+[2024-12-13 01:53:42] Customer CUST001310 reported suspicious activity on account. Fraud team notified.
+[2025-07-26 01:53:42] Customer CUST001157 satisfied with service. No issues reported.
+[2025-07-16 01:53:42] Customer CUST003922 called about high interest rate. Explained terms and conditions.
+[2024-11-22 01:53:42] Customer CUST000004 requested credit limit increase. Current score: 701. Under review.
+[2025-02-25 01:53:42] Customer CUST001597 reported lost card. Card blocked immediately.
+[2024-12-14 01:53:42] Customer CUST001404 called about high interest rate. Explained terms and conditions.
+[2024-12-16 01:53:42] Customer CUST000916 called regarding transaction failure. Amount: $58952. Issue resolved.
+[2025-10-15 01:53:42] Customer CUST004672 complained about declined transaction. Location: Delhi.
+[2025-10-18 01:53:42] Customer CUST000548 reported suspicious activity on account. Fraud team notified.
+[2025-10-20 01:53:42] Customer CUST003284 reported unauthorized transaction of $16551. Case opened.
+[2025-01-23 01:53:42] Customer CUST000616 reported suspicious activity on account. Fraud team notified.
+[2024-11-19 01:53:42] Customer CUST001004 complained about declined transaction. Location: Pune.
+[2025-08-01 01:53:42] Customer CUST003001 reported lost card. Card blocked immediately.
+[2025-09-28 01:53:42] Customer CUST003400 reported suspicious activity on account. Fraud team notified.
+[2025-04-21 01:53:42] Customer CUST004406 called regarding transaction failure. Amount: $44181. Issue resolved.
+[2025-09-02 01:53:42] Customer CUST004508 requested account statement. Sent via email.
+[2024-12-02 01:53:42] Customer CUST000259 satisfied with service. No issues reported.
+[2025-05-09 01:53:42] Customer CUST003841 inquired about loan application status. Application APP002879 pending.
+[2025-05-22 01:53:42] Customer CUST000024 called regarding transaction failure. Amount: $90051. Issue resolved.
+[2025-04-24 01:53:42] Customer CUST000606 called regarding transaction failure. Amount: $31354. Issue resolved.
+[2025-06-05 01:53:42] Customer CUST001966 called regarding transaction failure. Amount: $99839. Issue resolved.
+[2025-05-02 01:53:42] Customer CUST004420 reported unauthorized transaction of $3735. Case opened.
+[2025-01-23 01:53:42] Customer CUST000192 inquired about loan application status. Application APP000471 pending.
+[2025-01-29 01:53:42] Customer CUST004585 satisfied with service. No issues reported.
+[2025-07-11 01:53:42] Customer CUST003708 complained about declined transaction. Location: Delhi.
+[2025-06-08 01:53:42] Customer CUST002482 inquired about loan application status. Application APP001899 pending.
+[2025-06-09 01:53:42] Customer CUST000567 requested credit limit increase. Current score: 631. Under review.
+[2025-04-22 01:53:42] Customer CUST000143 requested credit limit increase. Current score: 679. Under review.
+[2025-01-13 01:53:42] Customer CUST001156 reported suspicious activity on account. Fraud team notified.
+[2025-03-29 01:53:42] Customer CUST001114 reported unauthorized transaction of $28165. Case opened.
+[2024-12-06 01:53:42] Customer CUST002546 called about high interest rate. Explained terms and conditions.
+[2025-05-18 01:53:42] Customer CUST004960 requested credit limit increase. Current score: 633. Under review.
+[2025-05-19 01:53:42] Customer CUST001458 inquired about loan application status. Application APP001411 pending.
+[2025-07-16 01:53:42] Customer CUST000959 reported lost card. Card blocked immediately.
+[2025-09-07 01:53:42] Customer CUST002471 satisfied with service. No issues reported.
+[2025-05-14 01:53:42] Customer CUST002216 reported unauthorized transaction of $22912. Case opened.
+[2024-12-30 01:53:42] Customer CUST000423 complained about declined transaction. Location: Kolkata.
+[2025-05-13 01:53:42] Customer CUST003880 reported suspicious activity on account. Fraud team notified.
+[2025-04-14 01:53:42] Customer CUST004044 requested credit limit increase. Current score: 632. Under review.
+[2025-03-14 01:53:42] Customer CUST002708 requested credit limit increase. Current score: 713. Under review.
+[2025-01-02 01:53:42] Customer CUST002538 reported unauthorized transaction of $68169. Case opened.
+[2025-03-08 01:53:42] Customer CUST004444 satisfied with service. No issues reported.
+[2025-06-28 01:53:42] Customer CUST003429 reported suspicious activity on account. Fraud team notified.
+[2025-03-02 01:53:42] Customer CUST001126 requested account statement. Sent via email.
+[2025-06-12 01:53:42] Customer CUST004528 complained about declined transaction. Location: Hyderabad.
+[2025-01-04 01:53:42] Customer CUST000201 requested credit limit increase. Current score: 794. Under review.
+[2025-02-02 01:53:42] Customer CUST004928 reported lost card. Card blocked immediately.
+[2024-11-21 01:53:42] Customer CUST003428 reported unauthorized transaction of $97280. Case opened.
+[2025-05-30 01:53:42] Customer CUST001686 requested credit limit increase. Current score: 740. Under review.
+[2025-05-28 01:53:42] Customer CUST001257 reported unauthorized transaction of $35428. Case opened.
+[2025-06-08 01:53:42] Customer CUST002984 inquired about loan application status. Application APP000600 pending.
+[2024-12-05 01:53:42] Customer CUST004547 called about high interest rate. Explained terms and conditions.
+[2025-05-25 01:53:42] Customer CUST000605 requested account statement. Sent via email.
+[2024-12-15 01:53:42] Customer CUST003744 inquired about loan application status. Application APP004974 pending.
+[2024-11-17 01:53:42] Customer CUST000826 called about high interest rate. Explained terms and conditions.
+[2024-11-18 01:53:42] Customer CUST000334 satisfied with service. No issues reported.
+[2025-08-16 01:53:42] Customer CUST001072 called regarding transaction failure. Amount: $83701. Issue resolved.
+[2024-12-24 01:53:42] Customer CUST002114 reported lost card. Card blocked immediately.
+[2025-04-18 01:53:42] Customer CUST000068 called regarding transaction failure. Amount: $44537. Issue resolved.
+[2025-06-06 01:53:42] Customer CUST000903 reported unauthorized transaction of $66962. Case opened.
+[2025-04-27 01:53:42] Customer CUST001808 reported suspicious activity on account. Fraud team notified.
+[2025-07-30 01:53:42] Customer CUST001607 called about high interest rate. Explained terms and conditions.
+[2025-06-13 01:53:42] Customer CUST003187 inquired about loan application status. Application APP003749 pending.
+[2025-01-31 01:53:42] Customer CUST004261 called about high interest rate. Explained terms and conditions.
+[2025-05-06 01:53:42] Customer CUST004775 inquired about loan application status. Application APP002784 pending.
+[2025-10-22 01:53:42] Customer CUST004332 inquired about loan application status. Application APP001019 pending.
+[2024-11-17 01:53:42] Customer CUST004244 inquired about loan application status. Application APP002096 pending.
+[2024-11-09 01:53:42] Customer CUST002150 satisfied with service. No issues reported.
+[2025-04-04 01:53:42] Customer CUST000901 reported unauthorized transaction of $18593. Case opened.
+[2025-08-28 01:53:42] Customer CUST004440 requested account statement. Sent via email.
+[2024-12-22 01:53:42] Customer CUST003128 satisfied with service. No issues reported.
+[2025-07-04 01:53:42] Customer CUST003689 called about high interest rate. Explained terms and conditions.
+[2025-08-03 01:53:42] Customer CUST003880 called about high interest rate. Explained terms and conditions.
+[2025-01-20 01:53:42] Customer CUST000129 requested credit limit increase. Current score: 750. Under review.
+[2024-11-25 01:53:42] Customer CUST001575 called about high interest rate. Explained terms and conditions.
+[2025-01-03 01:53:42] Customer CUST004120 requested credit limit increase. Current score: 747. Under review.
+[2024-12-25 01:53:42] Customer CUST000827 reported lost card. Card blocked immediately.
+[2025-10-27 01:53:42] Customer CUST000600 satisfied with service. No issues reported.
+[2025-06-03 01:53:42] Customer CUST002131 reported suspicious activity on account. Fraud team notified.
+[2025-03-06 01:53:42] Customer CUST004859 requested account statement. Sent via email.
+[2025-07-18 01:53:42] Customer CUST001994 inquired about loan application status. Application APP001403 pending.
+[2024-12-17 01:53:42] Customer CUST003558 requested account statement. Sent via email.
+[2025-06-04 01:53:42] Customer CUST003672 satisfied with service. No issues reported.
+[2025-02-17 01:53:42] Customer CUST001147 satisfied with service. No issues reported.
+[2025-08-08 01:53:42] Customer CUST004795 reported suspicious activity on account. Fraud team notified.
+[2025-04-29 01:53:42] Customer CUST004495 inquired about loan application status. Application APP001121 pending.
+[2025-07-02 01:53:42] Customer CUST001078 requested credit limit increase. Current score: 658. Under review.
+[2025-02-14 01:53:42] Customer CUST000522 reported suspicious activity on account. Fraud team notified.
+[2025-01-25 01:53:42] Customer CUST001832 reported lost card. Card blocked immediately.
+[2025-08-07 01:53:42] Customer CUST000709 reported unauthorized transaction of $87855. Case opened.
+[2025-04-27 01:53:42] Customer CUST002853 reported lost card. Card blocked immediately.
+[2024-12-16 01:53:42] Customer CUST003321 called about high interest rate. Explained terms and conditions.
+[2025-03-10 01:53:42] Customer CUST002364 requested credit limit increase. Current score: 652. Under review.
+[2025-05-26 01:53:42] Customer CUST003263 satisfied with service. No issues reported.
+[2025-03-19 01:53:42] Customer CUST003827 reported lost card. Card blocked immediately.
+[2025-05-27 01:53:42] Customer CUST004710 satisfied with service. No issues reported.
+[2025-06-14 01:53:42] Customer CUST003214 requested account statement. Sent via email.
+[2025-08-11 01:53:42] Customer CUST000363 requested credit limit increase. Current score: 626. Under review.
+[2025-04-19 01:53:42] Customer CUST001858 called regarding transaction failure. Amount: $12832. Issue resolved.
+[2025-01-17 01:53:42] Customer CUST002895 complained about declined transaction. Location: Hyderabad.
+[2025-03-07 01:53:42] Customer CUST003534 requested account statement. Sent via email.
+[2024-11-22 01:53:42] Customer CUST000271 requested credit limit increase. Current score: 758. Under review.
+[2025-01-27 01:53:42] Customer CUST002808 requested credit limit increase. Current score: 741. Under review.
+[2025-03-14 01:53:42] Customer CUST003414 called regarding transaction failure. Amount: $1036. Issue resolved.
+[2025-08-24 01:53:42] Customer CUST004373 inquired about loan application status. Application APP002018 pending.
+[2024-12-27 01:53:42] Customer CUST000879 reported lost card. Card blocked immediately.
+[2025-06-10 01:53:42] Customer CUST001931 requested credit limit increase. Current score: 645. Under review.
+[2025-08-14 01:53:42] Customer CUST002159 reported unauthorized transaction of $72042. Case opened.
+[2025-01-03 01:53:42] Customer CUST002301 requested account statement. Sent via email.
+[2025-01-05 01:53:42] Customer CUST003752 reported lost card. Card blocked immediately.
+[2025-03-20 01:53:42] Customer CUST004377 reported unauthorized transaction of $69974. Case opened.
+[2025-09-26 01:53:42] Customer CUST004509 reported unauthorized transaction of $70288. Case opened.
+[2024-11-05 01:53:42] Customer CUST002117 requested account statement. Sent via email.
+[2025-03-27 01:53:42] Customer CUST003171 complained about declined transaction. Location: Pune.
+[2025-04-20 01:53:42] Customer CUST001814 requested credit limit increase. Current score: 710. Under review.
+[2025-01-19 01:53:42] Customer CUST002142 called about high interest rate. Explained terms and conditions.
+[2025-03-27 01:53:42] Customer CUST003511 called about high interest rate. Explained terms and conditions.
+[2025-08-14 01:53:42] Customer CUST004388 reported lost card. Card blocked immediately.
+[2025-07-24 01:53:42] Customer CUST000998 satisfied with service. No issues reported.
+[2024-11-11 01:53:42] Customer CUST000673 reported suspicious activity on account. Fraud team notified.
+[2025-07-25 01:53:42] Customer CUST001977 complained about declined transaction. Location: Mumbai.
+[2025-09-02 01:53:42] Customer CUST004762 requested account statement. Sent via email.
+[2025-06-28 01:53:42] Customer CUST001288 reported suspicious activity on account. Fraud team notified.
+[2025-01-25 01:53:42] Customer CUST004357 called regarding transaction failure. Amount: $31873. Issue resolved.
+[2025-01-29 01:53:42] Customer CUST000235 reported unauthorized transaction of $51478. Case opened.
+[2025-09-30 01:53:42] Customer CUST002892 inquired about loan application status. Application APP003946 pending.
+[2025-08-06 01:53:42] Customer CUST001603 reported unauthorized transaction of $27110. Case opened.
+[2025-11-01 01:53:42] Customer CUST004084 requested credit limit increase. Current score: 607. Under review.
+[2024-11-24 01:53:42] Customer CUST002818 requested credit limit increase. Current score: 676. Under review.
+[2024-11-24 01:53:42] Customer CUST001527 called regarding transaction failure. Amount: $3982. Issue resolved.
+[2024-11-16 01:53:42] Customer CUST001099 satisfied with service. No issues reported.
+[2025-05-08 01:53:42] Customer CUST002162 complained about declined transaction. Location: Bangalore.
+[2025-05-04 01:53:43] Customer CUST003977 reported unauthorized transaction of $1680. Case opened.
+[2025-03-14 01:53:43] Customer CUST004845 reported unauthorized transaction of $58428. Case opened.
+[2025-05-13 01:53:43] Customer CUST003818 called about high interest rate. Explained terms and conditions.
+[2025-05-10 01:53:43] Customer CUST000910 satisfied with service. No issues reported.
+[2025-10-12 01:53:43] Customer CUST001649 called regarding transaction failure. Amount: $42589. Issue resolved.
+[2025-09-30 01:53:43] Customer CUST003073 reported suspicious activity on account. Fraud team notified.
+[2025-09-26 01:53:43] Customer CUST001264 reported suspicious activity on account. Fraud team notified.
+[2025-05-13 01:53:43] Customer CUST002253 satisfied with service. No issues reported.
+[2025-01-04 01:53:43] Customer CUST001585 satisfied with service. No issues reported.
+[2024-11-17 01:53:43] Customer CUST003248 requested credit limit increase. Current score: 691. Under review.
+[2025-04-03 01:53:43] Customer CUST000390 reported unauthorized transaction of $82406. Case opened.
+[2024-11-29 01:53:43] Customer CUST001298 reported unauthorized transaction of $41862. Case opened.
+[2025-04-11 01:53:43] Customer CUST000848 reported unauthorized transaction of $22183. Case opened.
+[2025-08-14 01:53:43] Customer CUST004267 complained about declined transaction. Location: Ahmedabad.
+[2025-04-13 01:53:43] Customer CUST003027 satisfied with service. No issues reported.
+[2024-11-23 01:53:43] Customer CUST000146 called regarding transaction failure. Amount: $48295. Issue resolved.
+[2025-08-27 01:53:43] Customer CUST000792 reported lost card. Card blocked immediately.
+[2025-08-24 01:53:43] Customer CUST000887 reported unauthorized transaction of $81834. Case opened.
+[2025-01-11 01:53:43] Customer CUST001164 reported unauthorized transaction of $39063. Case opened.
+[2025-05-27 01:53:43] Customer CUST004888 requested account statement. Sent via email.
+[2025-04-29 01:53:43] Customer CUST004049 reported unauthorized transaction of $99537. Case opened.
+[2025-08-15 01:53:43] Customer CUST004860 requested credit limit increase. Current score: 635. Under review.
+[2025-03-21 01:53:43] Customer CUST004681 inquired about loan application status. Application APP001492 pending.
+[2025-07-21 01:53:43] Customer CUST001887 called regarding transaction failure. Amount: $87245. Issue resolved.
+[2024-12-26 01:53:43] Customer CUST000856 reported unauthorized transaction of $50005. Case opened.
+[2025-07-14 01:53:43] Customer CUST004909 reported suspicious activity on account. Fraud team notified.
+[2025-01-09 01:53:43] Customer CUST002244 reported suspicious activity on account. Fraud team notified.
+[2025-08-28 01:53:43] Customer CUST003290 inquired about loan application status. Application APP004241 pending.
+[2025-09-17 01:53:43] Customer CUST004054 reported lost card. Card blocked immediately.
+[2025-08-28 01:53:43] Customer CUST001464 called about high interest rate. Explained terms and conditions.
+[2025-02-21 01:53:43] Customer CUST002243 complained about declined transaction. Location: Ahmedabad.
+[2025-02-12 01:53:43] Customer CUST000143 requested credit limit increase. Current score: 679. Under review.
+[2025-04-30 01:53:43] Customer CUST003056 reported unauthorized transaction of $27222. Case opened.
+[2025-06-04 01:53:43] Customer CUST001728 reported suspicious activity on account. Fraud team notified.
+[2025-08-14 01:53:43] Customer CUST004959 reported lost card. Card blocked immediately.
+[2025-09-18 01:53:43] Customer CUST000213 requested credit limit increase. Current score: 665. Under review.
+[2024-12-15 01:53:43] Customer CUST002491 complained about declined transaction. Location: Chennai.
+[2025-06-01 01:53:43] Customer CUST002887 called about high interest rate. Explained terms and conditions.
+[2025-09-22 01:53:43] Customer CUST003366 reported unauthorized transaction of $65391. Case opened.
+[2025-04-14 01:53:43] Customer CUST001490 called regarding transaction failure. Amount: $63062. Issue resolved.
+[2025-09-28 01:53:43] Customer CUST001013 inquired about loan application status. Application APP004203 pending.
+[2025-10-27 01:53:43] Customer CUST003814 reported lost card. Card blocked immediately.
+[2025-04-08 01:53:43] Customer CUST004365 reported unauthorized transaction of $16382. Case opened.
+[2025-06-22 01:53:43] Customer CUST002088 requested credit limit increase. Current score: 699. Under review.
+[2025-03-19 01:53:43] Customer CUST003021 requested credit limit increase. Current score: 850. Under review.
+[2025-03-30 01:53:43] Customer CUST002886 requested account statement. Sent via email.
+[2025-05-30 01:53:43] Customer CUST003858 requested account statement. Sent via email.
+[2025-06-13 01:53:43] Customer CUST004025 reported lost card. Card blocked immediately.
+[2025-02-21 01:53:43] Customer CUST004990 requested account statement. Sent via email.
+[2025-04-30 01:53:43] Customer CUST003526 complained about declined transaction. Location: Kolkata.
+[2025-05-03 01:53:43] Customer CUST000994 called regarding transaction failure. Amount: $19000. Issue resolved.
+[2025-03-15 01:53:43] Customer CUST000120 reported unauthorized transaction of $39845. Case opened.
+[2025-06-15 01:53:43] Customer CUST004403 inquired about loan application status. Application APP004144 pending.
+[2024-12-17 01:53:43] Customer CUST003770 reported unauthorized transaction of $65167. Case opened.
+[2024-12-18 01:53:43] Customer CUST003278 called about high interest rate. Explained terms and conditions.
+[2025-02-08 01:53:43] Customer CUST002763 called regarding transaction failure. Amount: $96084. Issue resolved.
+[2025-06-01 01:53:43] Customer CUST001264 reported suspicious activity on account. Fraud team notified.
+[2025-05-18 01:53:43] Customer CUST002271 requested account statement. Sent via email.
+[2025-10-16 01:53:43] Customer CUST004202 reported lost card. Card blocked immediately.
+[2025-04-25 01:53:43] Customer CUST004368 satisfied with service. No issues reported.
+[2025-08-12 01:53:43] Customer CUST003310 reported suspicious activity on account. Fraud team notified.
+[2025-01-05 01:53:43] Customer CUST003725 called regarding transaction failure. Amount: $33713. Issue resolved.
+[2025-05-07 01:53:43] Customer CUST000990 complained about declined transaction. Location: Kolkata.
+[2025-05-01 01:53:43] Customer CUST002882 complained about declined transaction. Location: Chennai.
+[2025-06-22 01:53:43] Customer CUST001049 reported suspicious activity on account. Fraud team notified.
+[2025-05-03 01:53:43] Customer CUST000096 inquired about loan application status. Application APP003401 pending.
+[2025-08-05 01:53:43] Customer CUST003901 inquired about loan application status. Application APP003335 pending.
+[2025-09-19 01:53:43] Customer CUST001011 requested account statement. Sent via email.
+[2025-04-02 01:53:43] Customer CUST004356 inquired about loan application status. Application APP003839 pending.
+[2025-03-19 01:53:43] Customer CUST003095 requested account statement. Sent via email.
+[2024-11-13 01:53:43] Customer CUST003517 inquired about loan application status. Application APP002568 pending.
+[2025-10-31 01:53:43] Customer CUST002793 reported suspicious activity on account. Fraud team notified.
+[2024-12-26 01:53:43] Customer CUST003574 reported suspicious activity on account. Fraud team notified.
+[2025-04-19 01:53:43] Customer CUST001896 requested account statement. Sent via email.
+[2025-11-02 01:53:43] Customer CUST001604 called regarding transaction failure. Amount: $93365. Issue resolved.
+[2025-01-27 01:53:43] Customer CUST003032 complained about declined transaction. Location: Kolkata.
+[2024-11-15 01:53:43] Customer CUST002463 complained about declined transaction. Location: Hyderabad.
+[2025-08-25 01:53:43] Customer CUST004743 requested credit limit increase. Current score: 674. Under review.
+[2025-01-20 01:53:43] Customer CUST001086 reported unauthorized transaction of $77758. Case opened.
+[2025-03-08 01:53:43] Customer CUST000393 reported suspicious activity on account. Fraud team notified.
+[2025-05-08 01:53:43] Customer CUST004273 reported unauthorized transaction of $46913. Case opened.
+[2024-11-12 01:53:43] Customer CUST004583 reported unauthorized transaction of $55088. Case opened.
+[2025-06-05 01:53:43] Customer CUST004066 requested credit limit increase. Current score: 680. Under review.
+[2025-10-29 01:53:43] Customer CUST004802 inquired about loan application status. Application APP000913 pending.
+[2024-12-01 01:53:43] Customer CUST000232 called regarding transaction failure. Amount: $66688. Issue resolved.
+[2025-03-02 01:53:43] Customer CUST001015 inquired about loan application status. Application APP002596 pending.
+[2025-08-23 01:53:43] Customer CUST001672 requested account statement. Sent via email.
+[2025-10-22 01:53:43] Customer CUST002894 inquired about loan application status. Application APP003440 pending.
+[2024-12-05 01:53:43] Customer CUST000847 reported lost card. Card blocked immediately.
+[2025-05-15 01:53:43] Customer CUST001101 called about high interest rate. Explained terms and conditions.
+[2025-02-11 01:53:43] Customer CUST000443 requested credit limit increase. Current score: 752. Under review.
+[2025-10-29 01:53:43] Customer CUST001083 called regarding transaction failure. Amount: $4405. Issue resolved.
+[2025-07-28 01:53:43] Customer CUST003994 reported unauthorized transaction of $19393. Case opened.
+[2024-12-21 01:53:43] Customer CUST004825 complained about declined transaction. Location: Kolkata.
+[2025-06-18 01:53:43] Customer CUST000704 requested account statement. Sent via email.
+[2024-12-21 01:53:43] Customer CUST001537 inquired about loan application status. Application APP001636 pending.
+[2025-03-21 01:53:43] Customer CUST004371 reported unauthorized transaction of $16723. Case opened.
+[2025-08-30 01:53:43] Customer CUST001621 reported lost card. Card blocked immediately.
+[2025-09-04 01:53:43] Customer CUST000354 requested account statement. Sent via email.
+[2025-05-28 01:53:43] Customer CUST003224 requested account statement. Sent via email.
+[2025-04-03 01:53:43] Customer CUST002029 reported suspicious activity on account. Fraud team notified.
+[2025-08-18 01:53:43] Customer CUST001897 reported suspicious activity on account. Fraud team notified.
+[2025-08-29 01:53:43] Customer CUST004035 reported suspicious activity on account. Fraud team notified.
+[2025-10-11 01:53:43] Customer CUST003596 requested credit limit increase. Current score: 563. Under review.
+[2025-02-03 01:53:43] Customer CUST003666 requested credit limit increase. Current score: 733. Under review.
+[2025-04-13 01:53:43] Customer CUST002390 reported lost card. Card blocked immediately.
+[2025-03-08 01:53:43] Customer CUST004834 complained about declined transaction. Location: Pune.
+[2025-08-10 01:53:43] Customer CUST004286 reported unauthorized transaction of $86949. Case opened.
+[2025-04-01 01:53:43] Customer CUST001098 reported unauthorized transaction of $79884. Case opened.
+[2025-04-05 01:53:43] Customer CUST004557 complained about declined transaction. Location: Pune.
+[2025-10-30 01:53:43] Customer CUST001630 reported suspicious activity on account. Fraud team notified.
+[2025-07-25 01:53:43] Customer CUST001911 requested credit limit increase. Current score: 633. Under review.
+[2025-05-15 01:53:43] Customer CUST004836 called about high interest rate. Explained terms and conditions.
+[2025-06-11 01:53:43] Customer CUST000987 requested credit limit increase. Current score: 670. Under review.
+[2025-10-22 01:53:43] Customer CUST000412 inquired about loan application status. Application APP000720 pending.
+[2025-10-08 01:53:43] Customer CUST004223 requested account statement. Sent via email.
+[2024-11-27 01:53:43] Customer CUST002795 inquired about loan application status. Application APP002914 pending.
+[2025-01-07 01:53:43] Customer CUST002004 reported unauthorized transaction of $6418. Case opened.
+[2025-03-13 01:53:43] Customer CUST000522 complained about declined transaction. Location: Kolkata.
+[2025-03-23 01:53:43] Customer CUST001416 complained about declined transaction. Location: Chennai.
+[2025-01-19 01:53:43] Customer CUST002383 reported lost card. Card blocked immediately.
+[2025-04-08 01:53:43] Customer CUST002946 inquired about loan application status. Application APP003590 pending.
+[2024-11-18 01:53:43] Customer CUST004626 called regarding transaction failure. Amount: $29161. Issue resolved.
+[2024-12-17 01:53:43] Customer CUST003902 requested account statement. Sent via email.
+[2025-04-27 01:53:43] Customer CUST004238 inquired about loan application status. Application APP002515 pending.
+[2025-04-08 01:53:43] Customer CUST003601 reported suspicious activity on account. Fraud team notified.
+[2025-04-14 01:53:43] Customer CUST003867 reported suspicious activity on account. Fraud team notified.
+[2025-04-15 01:53:43] Customer CUST002018 inquired about loan application status. Application APP003048 pending.
+[2025-04-24 01:53:43] Customer CUST004675 inquired about loan application status. Application APP004829 pending.
+[2025-08-02 01:53:43] Customer CUST003052 reported lost card. Card blocked immediately.
+[2025-03-28 01:53:43] Customer CUST002573 called regarding transaction failure. Amount: $31281. Issue resolved.
+[2025-09-16 01:53:43] Customer CUST002386 reported unauthorized transaction of $64979. Case opened.
+[2025-03-21 01:53:43] Customer CUST001788 requested account statement. Sent via email.
+[2025-03-19 01:53:43] Customer CUST004652 reported suspicious activity on account. Fraud team notified.
+[2024-12-18 01:53:43] Customer CUST004618 reported unauthorized transaction of $10132. Case opened.
+[2024-11-29 01:53:43] Customer CUST003241 reported suspicious activity on account. Fraud team notified.
+[2025-08-12 01:53:43] Customer CUST004279 complained about declined transaction. Location: Kolkata.
+[2025-09-20 01:53:43] Customer CUST000996 complained about declined transaction. Location: Kolkata.
+[2025-04-03 01:53:43] Customer CUST002668 requested credit limit increase. Current score: 622. Under review.
+[2025-06-24 01:53:43] Customer CUST002912 reported unauthorized transaction of $81262. Case opened.
+[2025-03-16 01:53:43] Customer CUST000532 called about high interest rate. Explained terms and conditions.
+[2025-02-11 01:53:43] Customer CUST004519 complained about declined transaction. Location: Kolkata.
+[2025-01-16 01:53:43] Customer CUST000181 requested credit limit increase. Current score: 666. Under review.
+[2025-09-23 01:53:43] Customer CUST000499 inquired about loan application status. Application APP003114 pending.
+[2025-01-28 01:53:43] Customer CUST001904 reported suspicious activity on account. Fraud team notified.
+[2024-12-27 01:53:43] Customer CUST001515 reported lost card. Card blocked immediately.
+[2025-06-23 01:53:43] Customer CUST004101 reported suspicious activity on account. Fraud team notified.
+[2025-07-24 01:53:43] Customer CUST001689 inquired about loan application status. Application APP003098 pending.
+[2025-03-03 01:53:43] Customer CUST001402 reported lost card. Card blocked immediately.
+[2025-08-21 01:53:43] Customer CUST002431 satisfied with service. No issues reported.
+[2025-03-28 01:53:43] Customer CUST004265 requested credit limit increase. Current score: 738. Under review.
+[2025-04-04 01:53:43] Customer CUST001504 complained about declined transaction. Location: Pune.
+[2024-12-03 01:53:43] Customer CUST000498 reported lost card. Card blocked immediately.
+[2025-08-12 01:53:43] Customer CUST003296 requested credit limit increase. Current score: 635. Under review.
+[2025-02-04 01:53:43] Customer CUST002391 complained about declined transaction. Location: Delhi.
+[2024-12-06 01:53:43] Customer CUST001686 called about high interest rate. Explained terms and conditions.
+[2025-09-13 01:53:43] Customer CUST004889 inquired about loan application status. Application APP004848 pending.
+[2025-01-31 01:53:43] Customer CUST004031 reported suspicious activity on account. Fraud team notified.
+[2025-10-21 01:53:43] Customer CUST000225 requested account statement. Sent via email.
+[2024-12-30 01:53:43] Customer CUST000294 satisfied with service. No issues reported.
+[2025-07-18 01:53:43] Customer CUST000733 called about high interest rate. Explained terms and conditions.
+[2025-07-12 01:53:43] Customer CUST004647 requested account statement. Sent via email.
+[2025-01-12 01:53:43] Customer CUST003099 requested account statement. Sent via email.
+[2024-12-15 01:53:43] Customer CUST000057 requested account statement. Sent via email.
+[2025-08-03 01:53:43] Customer CUST003378 reported lost card. Card blocked immediately.
+[2025-09-17 01:53:43] Customer CUST001984 reported lost card. Card blocked immediately.
+[2025-03-25 01:53:43] Customer CUST000146 reported unauthorized transaction of $84202. Case opened.
+[2025-10-04 01:53:43] Customer CUST004933 called regarding transaction failure. Amount: $50339. Issue resolved.
+[2024-12-28 01:53:43] Customer CUST000208 reported lost card. Card blocked immediately.
+[2025-03-12 01:53:43] Customer CUST003209 reported lost card. Card blocked immediately.
+[2025-09-16 01:53:43] Customer CUST000527 called regarding transaction failure. Amount: $28618. Issue resolved.
+[2024-12-16 01:53:43] Customer CUST004366 satisfied with service. No issues reported.
+[2025-01-12 01:53:43] Customer CUST004063 reported unauthorized transaction of $42801. Case opened.
+[2025-06-06 01:53:43] Customer CUST000398 requested account statement. Sent via email.
+[2024-11-18 01:53:43] Customer CUST002923 reported unauthorized transaction of $93650. Case opened.
+[2024-12-07 01:53:43] Customer CUST003754 satisfied with service. No issues reported.
+[2025-04-04 01:53:43] Customer CUST004349 satisfied with service. No issues reported.
+[2025-07-13 01:53:43] Customer CUST002322 reported lost card. Card blocked immediately.
+[2024-12-02 01:53:43] Customer CUST000466 requested credit limit increase. Current score: 850. Under review.
+[2025-01-03 01:53:43] Customer CUST003438 called about high interest rate. Explained terms and conditions.
+[2025-07-21 01:53:43] Customer CUST002400 complained about declined transaction. Location: Pune.
+[2025-07-29 01:53:43] Customer CUST003387 reported unauthorized transaction of $49855. Case opened.
+[2025-04-12 01:53:43] Customer CUST000550 satisfied with service. No issues reported.
+[2025-08-09 01:53:43] Customer CUST003376 requested credit limit increase. Current score: 545. Under review.
+[2025-09-18 01:53:43] Customer CUST004921 reported suspicious activity on account. Fraud team notified.
+[2024-12-14 01:53:43] Customer CUST002303 called regarding transaction failure. Amount: $77635. Issue resolved.
+[2025-03-30 01:53:43] Customer CUST001438 reported lost card. Card blocked immediately.
+[2025-09-19 01:53:43] Customer CUST004655 inquired about loan application status. Application APP004384 pending.
+[2025-02-07 01:53:43] Customer CUST003487 requested account statement. Sent via email.
+[2025-01-22 01:53:43] Customer CUST001438 requested credit limit increase. Current score: 778. Under review.
+[2025-09-23 01:53:43] Customer CUST003273 reported suspicious activity on account. Fraud team notified.
+[2025-05-01 01:53:43] Customer CUST004550 inquired about loan application status. Application APP000632 pending.
+[2025-08-09 01:53:43] Customer CUST001760 reported lost card. Card blocked immediately.
+[2025-03-29 01:53:43] Customer CUST002538 requested account statement. Sent via email.
+[2025-08-14 01:53:43] Customer CUST002923 complained about declined transaction. Location: Ahmedabad.
+[2025-07-21 01:53:43] Customer CUST002649 reported lost card. Card blocked immediately.
+[2025-10-28 01:53:43] Customer CUST003848 satisfied with service. No issues reported.
+[2025-03-20 01:53:43] Customer CUST003270 reported suspicious activity on account. Fraud team notified.
+[2025-02-13 01:53:43] Customer CUST003373 satisfied with service. No issues reported.
+[2025-02-09 01:53:43] Customer CUST001968 reported suspicious activity on account. Fraud team notified.
+[2024-12-15 01:53:43] Customer CUST004548 requested credit limit increase. Current score: 812. Under review.
+[2025-07-31 01:53:43] Customer CUST001539 reported unauthorized transaction of $13524. Case opened.
+[2025-10-19 01:53:43] Customer CUST000811 reported lost card. Card blocked immediately.
+[2025-09-16 01:53:43] Customer CUST004578 called regarding transaction failure. Amount: $98848. Issue resolved.
+[2025-05-02 01:53:43] Customer CUST002936 complained about declined transaction. Location: Mumbai.
+[2025-04-24 01:53:43] Customer CUST002377 reported suspicious activity on account. Fraud team notified.
+[2025-05-08 01:53:43] Customer CUST001470 called regarding transaction failure. Amount: $15811. Issue resolved.
+[2025-06-17 01:53:43] Customer CUST000792 called regarding transaction failure. Amount: $2927. Issue resolved.
+[2024-11-29 01:53:43] Customer CUST000653 complained about declined transaction. Location: Chennai.
+[2025-08-12 01:53:43] Customer CUST001994 reported lost card. Card blocked immediately.
+[2025-01-28 01:53:43] Customer CUST000474 complained about declined transaction. Location: Delhi.
+[2025-10-25 01:53:43] Customer CUST004955 satisfied with service. No issues reported.
+[2025-05-16 01:53:43] Customer CUST003687 called about high interest rate. Explained terms and conditions.
+[2025-01-24 01:53:43] Customer CUST000886 satisfied with service. No issues reported.
+[2024-11-21 01:53:43] Customer CUST002421 requested credit limit increase. Current score: 806. Under review.
+[2025-05-07 01:53:43] Customer CUST003628 satisfied with service. No issues reported.
+[2025-02-08 01:53:43] Customer CUST002990 complained about declined transaction. Location: Mumbai.
+[2025-08-12 01:53:43] Customer CUST002187 reported suspicious activity on account. Fraud team notified.
+[2025-09-12 01:53:43] Customer CUST004589 requested credit limit increase. Current score: 774. Under review.
+[2025-01-15 01:53:43] Customer CUST004495 reported suspicious activity on account. Fraud team notified.
+[2025-07-02 01:53:43] Customer CUST003409 called about high interest rate. Explained terms and conditions.
+[2025-10-12 01:53:43] Customer CUST004032 called regarding transaction failure. Amount: $29598. Issue resolved.
+[2025-02-28 01:53:43] Customer CUST003061 satisfied with service. No issues reported.
+[2025-02-12 01:53:43] Customer CUST000389 called about high interest rate. Explained terms and conditions.
+[2025-10-04 01:53:43] Customer CUST002157 complained about declined transaction. Location: Delhi.
+[2025-05-16 01:53:43] Customer CUST003683 complained about declined transaction. Location: Pune.
+[2025-02-04 01:53:43] Customer CUST000170 inquired about loan application status. Application APP001484 pending.
+[2025-04-19 01:53:43] Customer CUST002303 called about high interest rate. Explained terms and conditions.
+[2025-07-10 01:53:43] Customer CUST004313 called about high interest rate. Explained terms and conditions.
+[2025-10-24 01:53:43] Customer CUST003387 requested account statement. Sent via email.
+[2025-02-04 01:53:43] Customer CUST000843 reported unauthorized transaction of $41555. Case opened.
+[2025-10-17 01:53:43] Customer CUST003083 reported lost card. Card blocked immediately.
+[2025-10-25 01:53:43] Customer CUST002639 reported suspicious activity on account. Fraud team notified.
+[2024-12-16 01:53:43] Customer CUST003241 satisfied with service. No issues reported.
+[2025-05-12 01:53:43] Customer CUST001115 reported unauthorized transaction of $15057. Case opened.
+[2025-04-18 01:53:43] Customer CUST003971 satisfied with service. No issues reported.
+[2025-06-25 01:53:43] Customer CUST004466 reported suspicious activity on account. Fraud team notified.
+[2025-07-07 01:53:43] Customer CUST004600 requested credit limit increase. Current score: 757. Under review.
+[2024-12-14 01:53:43] Customer CUST000072 satisfied with service. No issues reported.
+[2025-07-19 01:53:43] Customer CUST000057 reported unauthorized transaction of $30786. Case opened.
+[2025-03-29 01:53:43] Customer CUST001301 satisfied with service. No issues reported.
+[2025-09-07 01:53:43] Customer CUST002230 called about high interest rate. Explained terms and conditions.
+[2025-01-09 01:53:43] Customer CUST002735 inquired about loan application status. Application APP000263 pending.
+[2024-12-24 01:53:43] Customer CUST002174 reported unauthorized transaction of $76632. Case opened.
+[2025-07-03 01:53:43] Customer CUST001710 reported lost card. Card blocked immediately.
+[2025-03-26 01:53:43] Customer CUST004992 complained about declined transaction. Location: Pune.
+[2025-05-16 01:53:43] Customer CUST000688 satisfied with service. No issues reported.
+[2025-01-16 01:53:43] Customer CUST004589 complained about declined transaction. Location: Chennai.
+[2024-12-27 01:53:43] Customer CUST002997 requested account statement. Sent via email.
+[2025-05-04 01:53:43] Customer CUST002566 requested account statement. Sent via email.
+[2025-01-24 01:53:43] Customer CUST003729 requested account statement. Sent via email.
+[2025-05-18 01:53:43] Customer CUST002635 complained about declined transaction. Location: Ahmedabad.
+[2025-06-15 01:53:43] Customer CUST001758 requested account statement. Sent via email.
+[2025-11-02 01:53:43] Customer CUST004656 requested account statement. Sent via email.
+[2025-09-10 01:53:43] Customer CUST002305 reported lost card. Card blocked immediately.
+[2024-11-18 01:53:43] Customer CUST001415 requested credit limit increase. Current score: 769. Under review.
+[2025-09-16 01:53:43] Customer CUST002720 inquired about loan application status. Application APP001960 pending.
+[2025-10-05 01:53:43] Customer CUST002890 called about high interest rate. Explained terms and conditions.
+[2025-04-03 01:53:43] Customer CUST003962 reported lost card. Card blocked immediately.
+[2025-02-08 01:53:43] Customer CUST000591 reported suspicious activity on account. Fraud team notified.
+[2025-10-11 01:53:43] Customer CUST004564 requested credit limit increase. Current score: 675. Under review.
+[2024-12-29 01:53:43] Customer CUST003699 satisfied with service. No issues reported.
+[2025-07-24 01:53:43] Customer CUST002635 requested credit limit increase. Current score: 775. Under review.
+[2024-11-27 01:53:43] Customer CUST004771 requested credit limit increase. Current score: 717. Under review.
+[2025-06-20 01:53:43] Customer CUST001891 requested credit limit increase. Current score: 792. Under review.
+[2025-10-29 01:53:43] Customer CUST001680 satisfied with service. No issues reported.
+[2025-01-31 01:53:43] Customer CUST003658 reported lost card. Card blocked immediately.
+[2025-04-10 01:53:43] Customer CUST001419 requested credit limit increase. Current score: 714. Under review.
+[2025-06-18 01:53:43] Customer CUST000961 requested account statement. Sent via email.
+[2025-08-28 01:53:43] Customer CUST003078 called regarding transaction failure. Amount: $67117. Issue resolved.
+[2025-04-24 01:53:43] Customer CUST002995 requested credit limit increase. Current score: 628. Under review.
+[2025-02-19 01:53:43] Customer CUST000550 called regarding transaction failure. Amount: $85228. Issue resolved.
+[2024-11-14 01:53:43] Customer CUST002997 satisfied with service. No issues reported.
+[2025-06-06 01:53:43] Customer CUST000836 requested credit limit increase. Current score: 677. Under review.
+[2025-02-13 01:53:43] Customer CUST001956 inquired about loan application status. Application APP002643 pending.
+[2025-10-02 01:53:43] Customer CUST001566 called about high interest rate. Explained terms and conditions.
+[2025-07-30 01:53:43] Customer CUST003014 called regarding transaction failure. Amount: $53970. Issue resolved.
+[2024-11-16 01:53:43] Customer CUST001939 reported suspicious activity on account. Fraud team notified.
+[2025-01-22 01:53:43] Customer CUST000633 requested account statement. Sent via email.
+[2025-09-28 01:53:43] Customer CUST003454 satisfied with service. No issues reported.
+[2025-05-22 01:53:43] Customer CUST004907 requested account statement. Sent via email.
+[2024-12-03 01:53:43] Customer CUST003252 requested credit limit increase. Current score: 675. Under review.
+[2025-04-15 01:53:43] Customer CUST002742 requested credit limit increase. Current score: 673. Under review.
+[2024-12-19 01:53:43] Customer CUST003906 reported unauthorized transaction of $25825. Case opened.
+[2025-06-11 01:53:43] Customer CUST002646 complained about declined transaction. Location: Delhi.
+[2025-09-10 01:53:43] Customer CUST004032 called regarding transaction failure. Amount: $71227. Issue resolved.
+[2025-09-14 01:53:43] Customer CUST000189 called regarding transaction failure. Amount: $60668. Issue resolved.
+[2025-08-20 01:53:43] Customer CUST004121 requested account statement. Sent via email.
+[2025-01-21 01:53:43] Customer CUST002181 called about high interest rate. Explained terms and conditions.
+[2025-07-20 01:53:43] Customer CUST000211 reported suspicious activity on account. Fraud team notified.
+[2025-01-28 01:53:43] Customer CUST001826 reported lost card. Card blocked immediately.
+[2025-04-05 01:53:43] Customer CUST000518 called about high interest rate. Explained terms and conditions.
+[2025-06-22 01:53:43] Customer CUST003840 requested account statement. Sent via email.
+[2025-07-23 01:53:43] Customer CUST000295 requested account statement. Sent via email.
+[2025-09-07 01:53:43] Customer CUST002622 reported lost card. Card blocked immediately.
+[2025-06-15 01:53:43] Customer CUST004246 reported suspicious activity on account. Fraud team notified.
+[2025-05-06 01:53:43] Customer CUST004593 reported unauthorized transaction of $63209. Case opened.
+[2025-08-02 01:53:43] Customer CUST001917 satisfied with service. No issues reported.
+[2025-05-31 01:53:43] Customer CUST003723 called regarding transaction failure. Amount: $4045. Issue resolved.
+[2024-11-10 01:53:43] Customer CUST001269 reported suspicious activity on account. Fraud team notified.
+[2025-01-22 01:53:43] Customer CUST003847 called about high interest rate. Explained terms and conditions.
+[2025-09-18 01:53:43] Customer CUST001958 reported unauthorized transaction of $97617. Case opened.
+[2025-07-24 01:53:43] Customer CUST000582 complained about declined transaction. Location: Mumbai.
+[2025-04-27 01:53:43] Customer CUST004765 reported unauthorized transaction of $84852. Case opened.
+[2025-02-16 01:53:43] Customer CUST003783 requested account statement. Sent via email.
+[2025-01-05 01:53:43] Customer CUST004153 inquired about loan application status. Application APP001377 pending.
+[2025-05-11 01:53:43] Customer CUST004614 requested account statement. Sent via email.
+[2025-06-25 01:53:43] Customer CUST001558 reported lost card. Card blocked immediately.
+[2025-09-06 01:53:43] Customer CUST000736 inquired about loan application status. Application APP001231 pending.
+[2025-08-24 01:53:43] Customer CUST002854 called regarding transaction failure. Amount: $93326. Issue resolved.
+[2025-05-16 01:53:43] Customer CUST000214 called about high interest rate. Explained terms and conditions.
+[2025-03-27 01:53:43] Customer CUST001394 reported unauthorized transaction of $61533. Case opened.
+[2025-08-13 01:53:43] Customer CUST002510 satisfied with service. No issues reported.
+[2024-12-24 01:53:43] Customer CUST002691 reported suspicious activity on account. Fraud team notified.
+[2025-03-02 01:53:43] Customer CUST003114 reported lost card. Card blocked immediately.
+[2025-02-27 01:53:43] Customer CUST002966 called regarding transaction failure. Amount: $90897. Issue resolved.
+[2024-12-21 01:53:43] Customer CUST001455 reported unauthorized transaction of $56938. Case opened.
+[2025-09-12 01:53:43] Customer CUST002959 inquired about loan application status. Application APP003396 pending.
+[2025-06-24 01:53:43] Customer CUST000641 reported unauthorized transaction of $91431. Case opened.
+[2025-10-26 01:53:43] Customer CUST004941 requested credit limit increase. Current score: 716. Under review.
+[2025-09-29 01:53:43] Customer CUST002128 inquired about loan application status. Application APP004764 pending.
+[2025-06-21 01:53:43] Customer CUST004581 called about high interest rate. Explained terms and conditions.
+[2025-04-08 01:53:43] Customer CUST002853 satisfied with service. No issues reported.
+[2025-10-24 01:53:43] Customer CUST002019 called regarding transaction failure. Amount: $27508. Issue resolved.
+[2024-12-27 01:53:43] Customer CUST004828 requested credit limit increase. Current score: 696. Under review.
+[2025-03-24 01:53:43] Customer CUST001699 inquired about loan application status. Application APP003076 pending.
+[2025-04-13 01:53:43] Customer CUST002395 reported lost card. Card blocked immediately.
+[2025-06-09 01:53:43] Customer CUST002964 called about high interest rate. Explained terms and conditions.
+[2025-06-28 01:53:43] Customer CUST002347 requested account statement. Sent via email.
+[2025-04-04 01:53:43] Customer CUST001643 called about high interest rate. Explained terms and conditions.
+[2025-03-22 01:53:43] Customer CUST004425 reported lost card. Card blocked immediately.
+[2025-03-10 01:53:43] Customer CUST003911 called about high interest rate. Explained terms and conditions.
+[2025-03-10 01:53:43] Customer CUST000142 inquired about loan application status. Application APP003974 pending.
+[2024-12-22 01:53:43] Customer CUST000995 reported lost card. Card blocked immediately.
+[2025-05-19 01:53:43] Customer CUST001248 reported unauthorized transaction of $52941. Case opened.
+[2025-05-08 01:53:43] Customer CUST004196 complained about declined transaction. Location: Delhi.
+[2025-07-02 01:53:43] Customer CUST002743 called regarding transaction failure. Amount: $1736. Issue resolved.
+[2025-04-07 01:53:43] Customer CUST003661 called about high interest rate. Explained terms and conditions.
+[2025-01-20 01:53:43] Customer CUST001702 requested credit limit increase. Current score: 668. Under review.
+[2025-10-28 01:53:43] Customer CUST000572 inquired about loan application status. Application APP002189 pending.
+[2025-02-05 01:53:43] Customer CUST001371 complained about declined transaction. Location: Pune.
+[2025-04-29 01:53:43] Customer CUST002482 reported unauthorized transaction of $77103. Case opened.
+[2025-05-30 01:53:43] Customer CUST004516 called regarding transaction failure. Amount: $24132. Issue resolved.
+[2025-05-24 01:53:43] Customer CUST004602 called regarding transaction failure. Amount: $80641. Issue resolved.
+[2025-10-13 01:53:43] Customer CUST003589 requested account statement. Sent via email.
+[2024-11-22 01:53:43] Customer CUST003612 inquired about loan application status. Application APP002458 pending.
+[2025-04-16 01:53:43] Customer CUST003169 reported suspicious activity on account. Fraud team notified.
+[2025-09-08 01:53:43] Customer CUST000362 called about high interest rate. Explained terms and conditions.
+[2025-09-28 01:53:43] Customer CUST000335 requested account statement. Sent via email.
+[2025-08-23 01:53:43] Customer CUST004393 reported unauthorized transaction of $25211. Case opened.
+[2025-04-06 01:53:43] Customer CUST004023 satisfied with service. No issues reported.
+[2025-07-22 01:53:43] Customer CUST000115 called about high interest rate. Explained terms and conditions.
+[2025-07-12 01:53:43] Customer CUST003151 satisfied with service. No issues reported.
+[2025-04-26 01:53:43] Customer CUST001021 requested account statement. Sent via email.
+[2024-12-31 01:53:43] Customer CUST003132 requested account statement. Sent via email.
+[2024-12-03 01:53:43] Customer CUST003831 called about high interest rate. Explained terms and conditions.
+[2025-02-13 01:53:43] Customer CUST003462 requested credit limit increase. Current score: 730. Under review.
+[2025-01-26 01:53:43] Customer CUST001728 complained about declined transaction. Location: Pune.
+[2025-04-04 01:53:43] Customer CUST003369 called about high interest rate. Explained terms and conditions.
+[2024-12-21 01:53:43] Customer CUST003432 reported lost card. Card blocked immediately.
+[2025-08-04 01:53:43] Customer CUST002799 requested credit limit increase. Current score: 626. Under review.
+[2025-06-13 01:53:43] Customer CUST004811 called regarding transaction failure. Amount: $67146. Issue resolved.
+[2025-04-09 01:53:43] Customer CUST000873 called about high interest rate. Explained terms and conditions.
+[2025-02-13 01:53:43] Customer CUST002613 requested credit limit increase. Current score: 693. Under review.
+[2024-12-19 01:53:43] Customer CUST002977 reported unauthorized transaction of $25469. Case opened.
+[2025-10-23 01:53:43] Customer CUST004338 complained about declined transaction. Location: Mumbai.
+[2025-05-10 01:53:43] Customer CUST003419 inquired about loan application status. Application APP002649 pending.
+[2025-08-23 01:53:43] Customer CUST000135 reported unauthorized transaction of $55508. Case opened.
+[2025-02-17 01:53:43] Customer CUST000817 requested credit limit increase. Current score: 681. Under review.
+[2025-01-03 01:53:43] Customer CUST003752 requested account statement. Sent via email.
+[2025-10-27 01:53:43] Customer CUST001319 requested account statement. Sent via email.
+[2025-02-01 01:53:43] Customer CUST002538 called about high interest rate. Explained terms and conditions.
+[2025-01-29 01:53:43] Customer CUST002264 reported unauthorized transaction of $52679. Case opened.
+[2025-06-05 01:53:43] Customer CUST000529 complained about declined transaction. Location: Delhi.
+[2025-02-22 01:53:43] Customer CUST003127 called about high interest rate. Explained terms and conditions.
+[2024-12-23 01:53:43] Customer CUST002730 reported lost card. Card blocked immediately.
+[2025-01-25 01:53:43] Customer CUST004635 called about high interest rate. Explained terms and conditions.
+[2025-08-14 01:53:43] Customer CUST000545 inquired about loan application status. Application APP003298 pending.
+[2025-09-30 01:53:43] Customer CUST004990 reported lost card. Card blocked immediately.
+[2025-01-13 01:53:43] Customer CUST004315 satisfied with service. No issues reported.
+[2025-06-11 01:53:43] Customer CUST002103 complained about declined transaction. Location: Pune.
+[2025-10-01 01:53:43] Customer CUST000482 requested account statement. Sent via email.
+[2025-08-25 01:53:43] Customer CUST002518 reported lost card. Card blocked immediately.
+[2025-07-28 01:53:43] Customer CUST000632 satisfied with service. No issues reported.
+[2025-10-01 01:53:43] Customer CUST003940 reported suspicious activity on account. Fraud team notified.
+[2025-02-19 01:53:43] Customer CUST003031 requested account statement. Sent via email.
+[2025-08-30 01:53:43] Customer CUST000254 complained about declined transaction. Location: Kolkata.
+[2025-04-23 01:53:43] Customer CUST002837 reported lost card. Card blocked immediately.
+[2025-10-07 01:53:43] Customer CUST002452 reported suspicious activity on account. Fraud team notified.
+[2025-01-24 01:53:43] Customer CUST000857 reported lost card. Card blocked immediately.
+[2025-04-20 01:53:43] Customer CUST001112 satisfied with service. No issues reported.
+[2024-12-12 01:53:43] Customer CUST000168 reported unauthorized transaction of $83401. Case opened.
+[2024-12-10 01:53:43] Customer CUST002481 reported suspicious activity on account. Fraud team notified.
+[2025-06-07 01:53:43] Customer CUST001637 requested credit limit increase. Current score: 574. Under review.
+[2025-08-20 01:53:43] Customer CUST000347 satisfied with service. No issues reported.
+[2024-11-25 01:53:43] Customer CUST002333 requested account statement. Sent via email.
+[2025-08-29 01:53:43] Customer CUST001372 called regarding transaction failure. Amount: $69353. Issue resolved.
+[2025-03-11 01:53:43] Customer CUST004741 reported unauthorized transaction of $27922. Case opened.
+[2025-05-22 01:53:43] Customer CUST000936 requested account statement. Sent via email.
+[2025-04-11 01:53:43] Customer CUST004162 satisfied with service. No issues reported.
+[2025-04-05 01:53:43] Customer CUST003031 requested account statement. Sent via email.
+[2025-04-30 01:53:43] Customer CUST002762 called regarding transaction failure. Amount: $66066. Issue resolved.
+[2024-11-09 01:53:43] Customer CUST001442 inquired about loan application status. Application APP002084 pending.
+[2025-10-29 01:53:43] Customer CUST003175 called about high interest rate. Explained terms and conditions.
+[2025-08-26 01:53:43] Customer CUST000490 reported suspicious activity on account. Fraud team notified.
+[2024-11-24 01:53:43] Customer CUST000369 inquired about loan application status. Application APP001472 pending.
+[2025-01-15 01:53:43] Customer CUST003378 called regarding transaction failure. Amount: $15075. Issue resolved.
+[2025-01-03 01:53:43] Customer CUST004248 reported suspicious activity on account. Fraud team notified.
+[2024-12-08 01:53:43] Customer CUST001883 called about high interest rate. Explained terms and conditions.
+[2025-07-14 01:53:43] Customer CUST000928 reported unauthorized transaction of $87362. Case opened.
+[2025-07-06 01:53:43] Customer CUST000264 called about high interest rate. Explained terms and conditions.
+[2025-08-28 01:53:43] Customer CUST001091 requested credit limit increase. Current score: 688. Under review.
+[2025-10-28 01:53:43] Customer CUST001555 reported suspicious activity on account. Fraud team notified.
+[2025-09-29 01:53:43] Customer CUST002613 inquired about loan application status. Application APP004568 pending.
+[2025-03-08 01:53:43] Customer CUST002078 called about high interest rate. Explained terms and conditions.
+[2025-03-02 01:53:43] Customer CUST000304 requested account statement. Sent via email.
+[2025-01-05 01:53:43] Customer CUST004727 inquired about loan application status. Application APP002917 pending.
+[2025-05-09 01:53:43] Customer CUST004679 reported suspicious activity on account. Fraud team notified.
+[2025-09-26 01:53:43] Customer CUST000331 inquired about loan application status. Application APP000273 pending.
+[2025-10-01 01:53:43] Customer CUST000125 called regarding transaction failure. Amount: $92891. Issue resolved.
+[2025-01-25 01:53:43] Customer CUST002768 reported suspicious activity on account. Fraud team notified.
+[2025-01-16 01:53:43] Customer CUST004712 called regarding transaction failure. Amount: $8111. Issue resolved.
+[2025-07-27 01:53:43] Customer CUST002962 reported unauthorized transaction of $78972. Case opened.
+[2025-04-02 01:53:43] Customer CUST002871 called about high interest rate. Explained terms and conditions.
+[2025-08-05 01:53:43] Customer CUST001031 reported unauthorized transaction of $73312. Case opened.
+[2024-12-10 01:53:43] Customer CUST003238 inquired about loan application status. Application APP000132 pending.
+[2025-08-13 01:53:43] Customer CUST000918 reported lost card. Card blocked immediately.
+[2025-03-04 01:53:43] Customer CUST002375 satisfied with service. No issues reported.
+[2025-03-18 01:53:43] Customer CUST001503 complained about declined transaction. Location: Mumbai.
+[2025-10-04 01:53:43] Customer CUST001731 reported suspicious activity on account. Fraud team notified.
+[2025-07-08 01:53:43] Customer CUST004127 reported unauthorized transaction of $9605. Case opened.
+[2025-01-23 01:53:43] Customer CUST001188 complained about declined transaction. Location: Hyderabad.
+[2024-11-25 01:53:43] Customer CUST004326 complained about declined transaction. Location: Chennai.
+[2025-06-20 01:53:43] Customer CUST004335 reported unauthorized transaction of $85381. Case opened.
+[2025-03-06 01:53:43] Customer CUST001227 requested credit limit increase. Current score: 632. Under review.
+[2025-01-16 01:53:43] Customer CUST002202 reported suspicious activity on account. Fraud team notified.
+[2025-06-19 01:53:43] Customer CUST004355 called about high interest rate. Explained terms and conditions.
+[2024-11-23 01:53:43] Customer CUST002034 called about high interest rate. Explained terms and conditions.
+[2025-04-24 01:53:43] Customer CUST004956 called about high interest rate. Explained terms and conditions.
+[2024-11-29 01:53:43] Customer CUST002250 called regarding transaction failure. Amount: $14272. Issue resolved.
+[2025-06-11 01:53:43] Customer CUST001834 satisfied with service. No issues reported.
+[2025-04-18 01:53:43] Customer CUST000499 requested credit limit increase. Current score: 613. Under review.
+[2025-01-18 01:53:43] Customer CUST000793 requested credit limit increase. Current score: 624. Under review.
+[2025-02-25 01:53:43] Customer CUST001804 reported lost card. Card blocked immediately.
+[2025-06-22 01:53:43] Customer CUST002648 requested credit limit increase. Current score: 665. Under review.
+[2025-10-12 01:53:43] Customer CUST003098 reported lost card. Card blocked immediately.
+[2025-02-25 01:53:43] Customer CUST002614 satisfied with service. No issues reported.
+[2025-03-03 01:53:43] Customer CUST003517 reported unauthorized transaction of $43897. Case opened.
+[2025-05-05 01:53:43] Customer CUST004253 requested account statement. Sent via email.
+[2025-08-14 01:53:43] Customer CUST004659 satisfied with service. No issues reported.
+[2025-08-09 01:53:43] Customer CUST001311 reported lost card. Card blocked immediately.
+[2025-08-07 01:53:43] Customer CUST003662 called regarding transaction failure. Amount: $70747. Issue resolved.
+[2024-11-05 01:53:43] Customer CUST004939 reported unauthorized transaction of $31728. Case opened.
+[2024-12-01 01:53:43] Customer CUST003611 reported unauthorized transaction of $58866. Case opened.
+[2025-07-17 01:53:43] Customer CUST004261 reported suspicious activity on account. Fraud team notified.
+[2025-04-08 01:53:43] Customer CUST000290 inquired about loan application status. Application APP004715 pending.
+[2025-06-06 01:53:43] Customer CUST001943 reported unauthorized transaction of $18229. Case opened.
+[2024-12-21 01:53:43] Customer CUST001185 reported lost card. Card blocked immediately.
+[2025-10-22 01:53:43] Customer CUST003798 called regarding transaction failure. Amount: $21284. Issue resolved.
+[2025-09-14 01:53:43] Customer CUST001369 requested credit limit increase. Current score: 727. Under review.
+[2025-02-21 01:53:43] Customer CUST004393 reported lost card. Card blocked immediately.
+[2024-11-16 01:53:43] Customer CUST002603 reported suspicious activity on account. Fraud team notified.
+[2025-04-19 01:53:43] Customer CUST000839 reported lost card. Card blocked immediately.
+[2025-04-10 01:53:43] Customer CUST004030 satisfied with service. No issues reported.
+[2025-11-03 01:53:43] Customer CUST002645 reported lost card. Card blocked immediately.
+[2025-10-30 01:53:43] Customer CUST002220 reported lost card. Card blocked immediately.
+[2025-10-17 01:53:43] Customer CUST002236 called regarding transaction failure. Amount: $99121. Issue resolved.
+[2025-04-21 01:53:43] Customer CUST003217 called regarding transaction failure. Amount: $48293. Issue resolved.
+[2025-07-03 01:53:43] Customer CUST000643 requested credit limit increase. Current score: 788. Under review.
+[2024-12-17 01:53:43] Customer CUST001407 called regarding transaction failure. Amount: $76367. Issue resolved.
+[2025-08-10 01:53:43] Customer CUST000702 requested credit limit increase. Current score: 696. Under review.
+[2025-05-09 01:53:43] Customer CUST003723 requested account statement. Sent via email.
+[2025-08-18 01:53:43] Customer CUST002654 reported suspicious activity on account. Fraud team notified.
+[2025-10-04 01:53:43] Customer CUST002970 inquired about loan application status. Application APP000438 pending.
+[2025-10-24 01:53:43] Customer CUST000314 reported lost card. Card blocked immediately.
+[2025-08-31 01:53:43] Customer CUST001102 requested account statement. Sent via email.
+[2024-11-17 01:53:43] Customer CUST001129 called regarding transaction failure. Amount: $55076. Issue resolved.
+[2025-08-01 01:53:43] Customer CUST004658 requested credit limit increase. Current score: 701. Under review.
+[2025-04-14 01:53:43] Customer CUST004482 called about high interest rate. Explained terms and conditions.
+[2024-11-23 01:53:43] Customer CUST000445 satisfied with service. No issues reported.
+[2025-07-27 01:53:43] Customer CUST002490 called about high interest rate. Explained terms and conditions.
+[2025-06-09 01:53:43] Customer CUST004046 called about high interest rate. Explained terms and conditions.
+[2025-04-04 01:53:43] Customer CUST002701 called regarding transaction failure. Amount: $78137. Issue resolved.
+[2025-05-09 01:53:43] Customer CUST004172 reported suspicious activity on account. Fraud team notified.
+[2025-07-11 01:53:43] Customer CUST001440 reported suspicious activity on account. Fraud team notified.
+[2024-12-28 01:53:43] Customer CUST000982 requested account statement. Sent via email.
+[2024-12-01 01:53:43] Customer CUST002091 complained about declined transaction. Location: Ahmedabad.
+[2025-09-15 01:53:43] Customer CUST001934 reported suspicious activity on account. Fraud team notified.
+[2025-05-19 01:53:43] Customer CUST001886 reported suspicious activity on account. Fraud team notified.
+[2024-12-23 01:53:43] Customer CUST001896 called about high interest rate. Explained terms and conditions.
+[2025-05-20 01:53:43] Customer CUST000098 called about high interest rate. Explained terms and conditions.
+[2025-10-02 01:53:43] Customer CUST001313 requested credit limit increase. Current score: 740. Under review.
+[2025-09-18 01:53:43] Customer CUST000368 called about high interest rate. Explained terms and conditions.
+[2025-02-11 01:53:43] Customer CUST001379 reported suspicious activity on account. Fraud team notified.
+[2024-12-10 01:53:43] Customer CUST001010 called about high interest rate. Explained terms and conditions.
+[2025-05-09 01:53:43] Customer CUST002322 reported unauthorized transaction of $97316. Case opened.
+[2025-08-14 01:53:43] Customer CUST003172 satisfied with service. No issues reported.
+[2025-06-11 01:53:43] Customer CUST000256 called about high interest rate. Explained terms and conditions.
+[2025-07-07 01:53:43] Customer CUST001041 called regarding transaction failure. Amount: $61655. Issue resolved.
+[2024-12-14 01:53:43] Customer CUST004057 requested account statement. Sent via email.
+[2025-10-03 01:53:43] Customer CUST004901 reported suspicious activity on account. Fraud team notified.
+[2025-01-03 01:53:43] Customer CUST003292 requested account statement. Sent via email.
+[2025-07-09 01:53:43] Customer CUST000686 complained about declined transaction. Location: Pune.
+[2025-04-12 01:53:43] Customer CUST002994 reported suspicious activity on account. Fraud team notified.
+[2025-03-17 01:53:43] Customer CUST003403 reported unauthorized transaction of $87582. Case opened.
+[2025-01-02 01:53:43] Customer CUST000707 reported lost card. Card blocked immediately.
+[2024-12-31 01:53:43] Customer CUST001370 called about high interest rate. Explained terms and conditions.
+[2025-01-08 01:53:43] Customer CUST004364 reported suspicious activity on account. Fraud team notified.
+[2025-09-15 01:53:43] Customer CUST000814 reported suspicious activity on account. Fraud team notified.
+[2025-04-15 01:53:43] Customer CUST004854 inquired about loan application status. Application APP002358 pending.
+[2025-10-20 01:53:43] Customer CUST000851 complained about declined transaction. Location: Delhi.
+[2024-11-17 01:53:43] Customer CUST000397 called regarding transaction failure. Amount: $21373. Issue resolved.
+[2024-11-17 01:53:43] Customer CUST001756 reported lost card. Card blocked immediately.
+[2025-01-11 01:53:43] Customer CUST001120 called regarding transaction failure. Amount: $96081. Issue resolved.
+[2025-04-23 01:53:43] Customer CUST002234 called about high interest rate. Explained terms and conditions.
+[2025-07-18 01:53:43] Customer CUST003909 requested credit limit increase. Current score: 622. Under review.
+[2025-08-25 01:53:43] Customer CUST002815 requested credit limit increase. Current score: 694. Under review.
+[2025-07-20 01:53:43] Customer CUST002773 reported unauthorized transaction of $64170. Case opened.
+[2025-02-13 01:53:43] Customer CUST000066 complained about declined transaction. Location: Delhi.
+[2025-03-05 01:53:43] Customer CUST001725 reported lost card. Card blocked immediately.
+[2025-04-25 01:53:43] Customer CUST000611 inquired about loan application status. Application APP002172 pending.
+[2025-01-22 01:53:43] Customer CUST004192 called about high interest rate. Explained terms and conditions.
+[2025-09-28 01:53:43] Customer CUST003200 reported lost card. Card blocked immediately.
+[2025-05-31 01:53:43] Customer CUST000360 requested credit limit increase. Current score: 606. Under review.
+[2025-10-18 01:53:43] Customer CUST001136 called about high interest rate. Explained terms and conditions.
+[2025-03-20 01:53:43] Customer CUST000036 reported unauthorized transaction of $14682. Case opened.
+[2025-04-01 01:53:43] Customer CUST000128 reported suspicious activity on account. Fraud team notified.
+[2024-12-04 01:53:43] Customer CUST000495 called about high interest rate. Explained terms and conditions.
+[2025-01-03 01:53:43] Customer CUST000150 satisfied with service. No issues reported.
+[2025-05-14 01:53:43] Customer CUST000048 reported suspicious activity on account. Fraud team notified.
+[2025-05-23 01:53:43] Customer CUST002057 reported suspicious activity on account. Fraud team notified.
+[2024-11-16 01:53:43] Customer CUST000985 requested account statement. Sent via email.
+[2025-03-07 01:53:43] Customer CUST000449 requested account statement. Sent via email.
+[2025-11-03 01:53:43] Customer CUST003109 complained about declined transaction. Location: Ahmedabad.
+[2024-12-20 01:53:43] Customer CUST000555 reported suspicious activity on account. Fraud team notified.
+[2025-06-16 01:53:43] Customer CUST002296 satisfied with service. No issues reported.
+[2025-06-30 01:53:43] Customer CUST001352 requested account statement. Sent via email.
+[2025-04-30 01:53:43] Customer CUST000036 complained about declined transaction. Location: Ahmedabad.
+[2025-05-27 01:53:43] Customer CUST001269 inquired about loan application status. Application APP002311 pending.
+[2025-09-16 01:53:43] Customer CUST003450 reported lost card. Card blocked immediately.
+[2025-09-16 01:53:43] Customer CUST000660 complained about declined transaction. Location: Mumbai.
+[2025-07-15 01:53:43] Customer CUST002769 called about high interest rate. Explained terms and conditions.
+[2025-06-10 01:53:43] Customer CUST001031 reported suspicious activity on account. Fraud team notified.
+[2025-07-01 01:53:43] Customer CUST004334 reported unauthorized transaction of $80134. Case opened.
+[2025-08-21 01:53:43] Customer CUST004747 reported lost card. Card blocked immediately.
+[2025-09-20 01:53:43] Customer CUST000937 called regarding transaction failure. Amount: $50906. Issue resolved.
+[2025-08-18 01:53:43] Customer CUST003010 complained about declined transaction. Location: Ahmedabad.
+[2025-10-16 01:53:43] Customer CUST003325 requested account statement. Sent via email.
+[2024-11-16 01:53:43] Customer CUST002114 reported unauthorized transaction of $83695. Case opened.
+[2025-06-21 01:53:43] Customer CUST000529 complained about declined transaction. Location: Delhi.
+[2025-06-12 01:53:43] Customer CUST002649 called about high interest rate. Explained terms and conditions.
+[2024-12-25 01:53:43] Customer CUST001598 reported lost card. Card blocked immediately.
+[2025-10-19 01:53:43] Customer CUST001558 reported unauthorized transaction of $21003. Case opened.
+[2025-06-17 01:53:43] Customer CUST003221 satisfied with service. No issues reported.
+[2024-12-13 01:53:43] Customer CUST000229 requested credit limit increase. Current score: 716. Under review.
+[2025-03-28 01:53:43] Customer CUST003538 reported lost card. Card blocked immediately.
+[2024-11-22 01:53:43] Customer CUST002637 inquired about loan application status. Application APP001353 pending.
+[2025-04-17 01:53:43] Customer CUST002228 reported suspicious activity on account. Fraud team notified.
+[2025-02-07 01:53:43] Customer CUST000075 called regarding transaction failure. Amount: $26892. Issue resolved.
+[2024-12-12 01:53:43] Customer CUST001632 reported suspicious activity on account. Fraud team notified.
+[2025-02-21 01:53:43] Customer CUST002582 complained about declined transaction. Location: Chennai.
+[2025-02-13 01:53:43] Customer CUST002867 reported unauthorized transaction of $77838. Case opened.
+[2024-11-15 01:53:43] Customer CUST001161 reported lost card. Card blocked immediately.
+[2025-01-02 01:53:43] Customer CUST001464 reported unauthorized transaction of $59132. Case opened.
+[2024-12-30 01:53:43] Customer CUST000262 requested account statement. Sent via email.
+[2025-10-21 01:53:43] Customer CUST002297 inquired about loan application status. Application APP000662 pending.
+[2025-10-28 01:53:43] Customer CUST003313 requested account statement. Sent via email.
+[2025-08-13 01:53:43] Customer CUST004805 requested credit limit increase. Current score: 617. Under review.
+[2025-10-15 01:53:43] Customer CUST000651 called about high interest rate. Explained terms and conditions.
